@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:0 tvg-id="ext" group-title="-",TV PUBLICA
+#EXTINF:0 tvg-id="ext" group-title="-",Juampy transmisiones
 https://live.autistici.org/hls/12345678_src.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="-",TELEFE
