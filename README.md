@@ -36,7 +36,8 @@ https://inliveserver.com:1936/17012/17012/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal50Morteros.ar" tvg-logo="https://i.imgur.com/IDhgBav.png" group-title="Undefined",Canal 50 (Morteros)
 https://coopmorteros.online/canal50/vivo.m3u8
 
-
+#EXTINF:-1 tvg-id="Canal79SanJuan.ar" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="Undefined",Canal 79 San Juan (240p)
+https://streamconex.com:1936/sanjuan/sanjuan/playlist.m3u8
 
 
 
