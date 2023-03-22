@@ -22,5 +22,6 @@ https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 https://panel.dattalive.com/8166/8166/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-id="Canal7TV.ar" tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Undefined",Canal 7 TV 
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
