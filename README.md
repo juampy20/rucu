@@ -33,7 +33,8 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9LaRioja.ar" tvg-logo="https://i.imgur.com/Sy7lBuk.png" group-title="General",Canal 9 La Rioja
 https://inliveserver.com:1936/17012/17012/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="Canal50Morteros.ar" tvg-logo="https://i.imgur.com/IDhgBav.png" group-title="Undefined",Canal 50 (Morteros)
+https://coopmorteros.online/canal50/vivo.m3u8
 
 
 
