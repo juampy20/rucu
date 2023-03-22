@@ -10,7 +10,8 @@ https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-id="Canal10SanRafael.ar" tvg-logo="https://i.imgur.com/teoaBPx.png" group-title="Undefined",Canal 10 San Rafael (480p)
+https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 
 
 
