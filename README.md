@@ -18,7 +18,8 @@ https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
 https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-id="Canal6MardePlata.ar" tvg-logo="https://i.imgur.com/fNaIrvV.png" group-title="Undefined",Canal 6 Mar del Plata
+https://panel.dattalive.com/8166/8166/playlist.m3u8
 
 
 
