@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:0 tvg-id="ext" group-title="-",Juampy transmisiones
-https://live.autistici.org/hls/12345678_src.m3u8
+https://cdnhd.iblups.com/hls/mPkyt6ZMC6.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="-",TELEFE
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
