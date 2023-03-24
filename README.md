@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones
 https://cdnhd.iblups.com/hls/mPkyt6ZMC6.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="-",Juampy2
-https://cdnhd.iblups.com/hls/mPkyt6ZMC6.m3u8
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="-",TYCsport
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="-",TELEFE
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
