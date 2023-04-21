@@ -100,3 +100,36 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="(-)" ,TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
+#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="Documentary;Science",Xtrema Animal (360p)
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Animation",Xtrema Anime (360p)
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Animation;Kids",Xtrema Cartoons (360p)
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAccion.ar" tvg-logo="https://i.imgur.com/z5NwizH.png" group-title="Movies",Xtrema Cine Acción (268p)
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaAsia.ar" tvg-logo="https://i.imgur.com/xX1tfJz.png" group-title="Movies",Xtrema Cine Asia (268p)
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaComedy.ar" tvg-logo="https://i.imgur.com/aNUufoq.png" group-title="Comedy;Movies",Xtrema Cine Comedy (344p)
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaDrama.ar" tvg-logo="https://i.imgur.com/lkQBPmN.png" group-title="Movies",Xtrema Cine Drama (360p)
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaEuropa.ar" tvg-logo="https://i.imgur.com/o4EMF7I.png" group-title="Movies",Xtrema Cine Europa (360p)
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaFamily.ar" tvg-logo="https://i.imgur.com/PohVKAP.png" group-title="Family;Movies",Xtrema Cine Family (274p)
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaHindi.ar" tvg-logo="https://i.imgur.com/9QIasCj.png" group-title="Movies",Xtrema Cine Hindi (272p)
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaLatina.ar" tvg-logo="https://i.imgur.com/swgrOiH.png" group-title="Movies",Xtrema Cine Latino (360p)
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaSuspenso.ar" tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="Movies",Xtrema Cine Suspenso (360p)
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Movies",Xtrema Cine Terror (270p)
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Animation;Classic;Kids",Xtrema Retro Cartoons (360p)
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaRetroSeries.ar" tvg-logo="https://i.imgur.com/ejBa7n3.png" group-title="Classic;Series",Xtrema Retro Series (360p)
+https://stmv1.cnarlatam.com/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaSeries.ar" tvg-logo="https://i.imgur.com/J7ZZIQN.png" group-title="Movies",Xtrema Series (360p)
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+
