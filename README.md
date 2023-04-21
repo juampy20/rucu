@@ -5,7 +5,7 @@ https://cdnhd.iblups.com/hls/mPkyt6ZMC6.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="-",TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="-",EL NUEVE
+#EXTINF:-1 tvg-id="ext" group-title="-",EL NUEVE   
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="-",TYCsport
