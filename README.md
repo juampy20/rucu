@@ -14,6 +14,8 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="-",TELEFE
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ext" group-title="-",CANAL RURAL
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/dQ86x7V.png" group-title="-",Canal 10 Córdoba 
