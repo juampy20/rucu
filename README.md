@@ -59,6 +59,9 @@ https://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1 tvg-id="Canal2Jujuy.ar" tvg-logo="https://i.imgur.com/q0FyrAv.png" group-title="Undefined",Canal 2 Jujuy 
 https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
+#EXTINF:-1 tvg-id="Canal2Jujuy.ar" tvg-logo="https://i.imgur.com/q0FyrAv.png" group-title="Undefined",Canal 13 Jujuy 
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+
 #EXTINF:-1 tvg-id="Canal3Formosa.ar" tvg-logo="https://i.imgur.com/rVDrNIy.png" group-title="Undefined",Canal 3 Formosa 
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 
