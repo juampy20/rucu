@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 3
 https://live.autistici.org/hls/12345678_src.m3u8
 
+#EXTINF:-1 tvg-id="ext" group-title="-",A 24
+https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="-",TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
