@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 1
-https://webudit.salamus1.lol/lb/premium66/index.m3u8
+https://cdn.sportcast.life/nginx.php?id=1.php
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 2
 https://ddh1.salamus1.lol/ddh1/premium66/playlist.m3u8
