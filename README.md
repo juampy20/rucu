@@ -1,6 +1,12 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 1
+https://webudit.salamus1.lol/lb/premium66/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 2
+https://ddh1.salamus1.lol/ddh1/premium66/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 3
-https://live.autistici.org/hls/12345678_src.m3u8
+https://ddh1.salamus1.lol/ddh1/premium66/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="-",A 24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
