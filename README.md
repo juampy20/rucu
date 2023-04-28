@@ -4,10 +4,9 @@ https://s--p12w.smvdn22.live/live/Rio_55/multy.m3u8?match_id=7969358&s_id=1&t_id
 
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 2
-https://ddh1.salamus1.lol/ddh1/premium66/playlist.m3u8
+https://s--p12w.smvdn22.live/live/Netspor-5/multy.m3u8?match_id=7895631&s_id=1&t_id=6&stats=statsbet30.co&timestamp=1682714726&key=VTJGc2RHVmtYMTlZTmNFSlYwcGhTV0VwVy8zWGNmZkwvUlQvYmI3aHBnZ2QzY0JBanJ6bUJJZWRVQ1RvdEtaTkRmdzBUMEppQklEUVRnUHd2cGl6a3FnU0ZUYmVPVFB4UzcxV0RxQkVmUDA5NE85VFhEZVJBVzkwVFVJeFRQNmFDbENxOUdmajh1b1dEdGEyQlltQVQ4RVhhbkNPVDhORGN3d2pxOG5pZ2pJPQ==
 
-#EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 3
-https://ddh1.salamus1.lol/ddh1/premium66/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" group-title="-",A 24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
