@@ -1,10 +1,10 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 1
-https://ddh1.salamus1.lol/ddh1/premium45/tracks-v1a1/mono.m3u8
+http://45.5.119.202:54321/play/a029/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 2
-https://s--p12w.smvdn22.live/live/Netspor-5/multy.m3u8?match_id=7895631&s_id=1&t_id=6&stats=statsbet30.co&timestamp=1682714726&key=VTJGc2RHVmtYMTlZTmNFSlYwcGhTV0VwVy8zWGNmZkwvUlQvYmI3aHBnZ2QzY0JBanJ6bUJJZWRVQ1RvdEtaTkRmdzBUMEppQklEUVRnUHd2cGl6a3FnU0ZUYmVPVFB4UzcxV0RxQkVmUDA5NE85VFhEZVJBVzkwVFVJeFRQNmFDbENxOUdmajh1b1dEdGEyQlltQVQ4RVhhbkNPVDhORGN3d2pxOG5pZ2pJPQ==
+http://45.5.119.202:54321/play/a032/index.m3u8
 
 
 
