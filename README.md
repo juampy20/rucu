@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 1
-https://s--p12w.smvdn22.live/live/Rio_55/multy.m3u8?match_id=7969358&s_id=1&t_id=214&stats=statsbet30.co&timestamp=1682714454&key=VTJGc2RHVmtYMTgwUkVTSlp0TC9OUFFuaFo2dXZJZlpDNnNuR1pFYVhKK0U1eGJTZkFsZnpLZUZnUWQ1a3cxZHRuZ0Q5UkY1WWJYd2tTV0kzWlRidFcybWs5bHV2dk5uZE9aeVdMamZoTzh3RDRRYXkwWENwTXV6ZTlzTUd0UGFCaDMrSEljSXQvV0JTMG92WW9Wd0JZeWpVMjI2NzNHTHhHTlcyTHlMYTRRPQ==
+https://ddh1.salamus1.lol/ddh1/premium45/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 2
