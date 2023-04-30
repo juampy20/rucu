@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 1
-http://45.5.119.202:54321/play/a029/index.m3u8
+https://cdn.sportcast.life/nginx.php?id=33.php
 
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 2
