@@ -1,11 +1,14 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 1
-https://cdn.sportcast.life/nginx.php?id=33.php
+#EXTINF:-1 tvg-id="ext" group-title="-",Futbol 1
+https://s01.castamp.com/live/futdirectohn1/playlist.m3u8?h=YzyFlNECSLtDtOfaeJLW_g&e=1683078778&u=45523f9c45dd3537ede278545da7e487&d=45_7_209_120
 
 
-#EXTINF:-1 tvg-id="ext" group-title="-",Juampy transmisiones 2
-http://45.5.119.202:54321/play/a032/index.m3u8
+#EXTINF:-1 tvg-id="ext" group-title="-",Futbol 2
+https://s01.castamp.com/live/iraffletv1/chunklist.m3u8?h=0-L_WX-039RuuQ535YQhOA&e=1683079048&u=1b0d6dfd4c5f13de15852eb7e932ae69&d=45_7_209_199
 
+
+#EXTINF:-1 tvg-id="ext" group-title="-",Futbol 3
+https://s01.castamp.com/live/iraffletv2/playlist.m3u8?h=bhdfNk1WdKXcOhB8a3kR4A&e=1683079148&u=cd0728bd48a4e75f31657dd1ccfb642b&d=45_7_209_199
 
 
 #EXTINF:-1 tvg-id="ext" group-title="-",A 24
