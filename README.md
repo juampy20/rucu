@@ -13,6 +13,9 @@ https://s01.castamp.com/live/iraffletv2/playlist.m3u8?h=bhdfNk1WdKXcOhB8a3kR4A&e
 #EXTINF:-1 tvg-id="ext" group-title="-",deportes eeuu 1
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 
+#EXTINF:-1 tvg-id="ext" group-title="-",deportes eeuu 2
+https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" group-title="-",A 24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
