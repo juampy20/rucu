@@ -10,6 +10,9 @@ https://s01.castamp.com/live/iraffletv1/chunklist.m3u8?h=0-L_WX-039RuuQ535YQhOA&
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 3
 https://s01.castamp.com/live/iraffletv2/playlist.m3u8?h=bhdfNk1WdKXcOhB8a3kR4A&e=1683079148&u=cd0728bd48a4e75f31657dd1ccfb642b&d=45_7_209_199
 
+#EXTINF:-1 tvg-id="ext" group-title="-",deportes eeuu 1
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" group-title="-",A 24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
