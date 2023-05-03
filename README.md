@@ -4,8 +4,7 @@ https://s01.castamp.com/live/futdirectohn1/playlist.m3u8?h=YzyFlNECSLtDtOfaeJLW_
 
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 2
-https://s01.castamp.com/live/iraffletv1/chunklist.m3u8?h=0-L_WX-039RuuQ535YQhOA&e=1683079048&u=1b0d6dfd4c5f13de15852eb7e932ae69&d=45_7_209_199
-
+https://s01.castamp.com/live/iraffletv1/chunklist.m3u8?h=OH1cEFKugGXUexOfpZ4WrA&e=1683180839&u=a373edc95341c0963f31329664904ee8&d=45_7_209_199
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 3
 https://s01.castamp.com/live/iraffletv2/playlist.m3u8?h=bhdfNk1WdKXcOhB8a3kR4A&e=1683079148&u=cd0728bd48a4e75f31657dd1ccfb642b&d=45_7_209_199
