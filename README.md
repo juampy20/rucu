@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 1
-https://ddh1.salamus1.lol/ddh1/premium391/tracks-v1a1/mono.m3u8
+
+https://pro.zorrohd8.xyz/live/ST2e0966e430e9db4.m3u8
+
 
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 2
