@@ -9,10 +9,10 @@ https://pro.zorrohd8.xyz/live/ST2e0966e430e9db4.m3u8
 https://pro.zorrohd8.xyz/live/STd3f6dfbcae917ad.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 3
-https://s01.castamp.com/live/iraffletv2/playlist.m3u8?h=bhdfNk1WdKXcOhB8a3kR4A&e=1683079148&u=cd0728bd48a4e75f31657dd1ccfb642b&d=45_7_209_199
+https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 4
-https://s01.castamp.com/live/seriea1/chunklist.m3u8?h=WvShmXwjEm9fMgY1xjJ5-Q&e=1683180721&u=e9bf542569546fb3250f091a5b0b4d07&d=45_7_209_199
+https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" group-title="-",deportes eeuu 1
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
