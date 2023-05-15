@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 1
-https://s01.castamp.com/live/futdirectohn1/playlist.m3u8?h=YzyFlNECSLtDtOfaeJLW_g&e=1683078778&u=45523f9c45dd3537ede278545da7e487&d=45_7_209_120
+https://ddh1.salamus1.lol/ddh1/premium391/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 2
