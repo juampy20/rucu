@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 1
 
-https://pro.zorrohd8.xyz/live/ST2e0966e430e9db4.m3u8
+https://jac-tv.com/tvseg3/starplus.php
 
 
 
