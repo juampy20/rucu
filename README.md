@@ -6,7 +6,7 @@ https://webudit.salamus1.lol/lb/premium572/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 2
-https://webudit.salamus1.lol/lb/premium573/index.m3u8
+https://webudit.salamus1.lol/lb/premium429/index.m3u8|referer=https://streamservicehd.click
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 3
 https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
