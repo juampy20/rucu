@@ -1,12 +1,12 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 1
 
-https://jac-tv.com/tvseg3/starplus.php
+https://webudit.salamus1.lol/lb/premium572/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 2
-https://pro.zorrohd8.xyz/live/STd3f6dfbcae917ad.m3u8
+https://webudit.salamus1.lol/lb/premium573/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 3
 https://1095-abc.dtvott.com/dash_live_1095/manifest.mpd
