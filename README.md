@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="ext" group-title="-",Futbol 1
 
-https://webudit.salamus1.lol/lb/premium572/index.m3u8
+https://ddy1.salamus1.lol/ddy1/premium598/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 
 
 
