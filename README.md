@@ -129,6 +129,20 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/05
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/06
 
 
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. ASTRO CRICKET LIVE
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/07
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. s PREMIER LIGUE
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/08
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. ASTRO SUPER SPORTS 
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/09
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. s LA LIGA
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/10
 
 
 
