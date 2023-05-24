@@ -169,6 +169,12 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/16
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/17
 
 
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. s VARIETY 1
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/18
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. s LA LIGA 2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/19
 
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="https://i.ibb.co/Cs6DXtj/Bt1.jpg" group-title="3. SPORTS",BT SPORTS 1
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/43
