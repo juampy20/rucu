@@ -145,6 +145,22 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/09
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/10
 
 
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. s MOTOR SPORTS
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/11
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. s TENNIS
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/12
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. s ACTION COMBATE
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/13
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. s GOLF
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/14
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="https://i.ibb.co/Cs6DXtj/Bt1.jpg" group-title="3. SPORTS",BT SPORTS 1
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/43
