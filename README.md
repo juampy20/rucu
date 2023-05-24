@@ -115,8 +115,21 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/01
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/02
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. ASTRO AWANI
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/02
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. ASTRO SUPER SPORTS 3
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/03
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. ASTRO SUPER SPORTS 4
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/04
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. ASTRO SUPER SPORTS 5
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/05
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. ASTRO ARENA
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/06
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="https://i.ibb.co/Cs6DXtj/Bt1.jpg" group-title="3. SPORTS",BT SPORTS 1
