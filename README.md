@@ -161,6 +161,14 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/13
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/14
 
 
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. s PSL
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/16
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title="3. s RUGBY
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/17
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="https://i.ibb.co/Cs6DXtj/Bt1.jpg" group-title="3. SPORTS",BT SPORTS 1
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/43
