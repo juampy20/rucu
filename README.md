@@ -248,6 +248,42 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/49
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports 2 (copa libertadores y partidos argentinos)
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/52
 
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports 3 (copa libertadores y partidos argentinos)
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/53
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports 4 (copa libertadores y maxicanos)
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/54
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports 4 (copa libertadores y maxicanos)
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/55
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports 6 
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/56
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",olympic chanell
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/57
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sport 1 ENG
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/58
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sport 2ENG
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/59
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sport 3ENG (libertadores america)
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/60
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sport 4ENG (
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/61
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sport 2 francia
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/62
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sport 3 francia
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/63
+
+
+
+
 
 
 
