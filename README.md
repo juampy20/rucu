@@ -235,75 +235,90 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/45
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 1" tvg-logo="https://i.ibb.co/wd5vcJC/Sporttv-1.jpg" group-title= SPORTS",SPORTTV 1
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/46
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",SPORTTV 2
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",SPORTTV 2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/47
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports family
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",bein sports family
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/48
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports 2
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",bein sports 2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/49
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports 2 (copa libertadores y partidos argentinos)
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",bein sports 2 (copa libertadores y partidos argentinos)
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/52
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports 3 (copa libertadores y partidos argentinos)
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",bein sports 3 (copa libertadores y partidos argentinos)
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/53
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports 4 (copa libertadores y maxicanos)
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",bein sports 4 (copa libertadores y maxicanos)
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/54
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports 4 (copa libertadores y maxicanos)
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",bein sports 4 (copa libertadores y maxicanos)
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/55
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports 6 
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",bein sports 6 
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/56
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",olympic chanell
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",olympic chanell
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/57
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sport 1 ENG
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",bein sport 1 ENG
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/58
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sport 2ENG
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",bein sport 2ENG
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/59
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sport 3ENG (libertadores america)
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",bein sport 3ENG (libertadores america)
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/60
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sport 4ENG (
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",bein sport 4ENG (
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/61
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sport 2 francia
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",bein sport 2 francia
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/62
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sport 3 francia
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="-" group-title= SPORTS",bein sport 3 francia
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/63
 
-#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title= SPORTS",TRUE premier footbal
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="-" group-title= SPORTS",TRUE premier footbal
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/74
 
-#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title= SPORTS",TRUE premier ligue
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="-" group-title= SPORTS",TRUE premier ligue
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/75
 
-#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title= SPORTS",TRUE premier footbal
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="-" group-title= SPORTS",TRUE premier footbal
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/76
 
-#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title= SPORTS",TRUE premier footbal
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="-" group-title= SPORTS",TRUE premier footbal
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/77
 
-#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title= SPORTS",TRUE SPORTS HD 1
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="-" group-title= SPORTS",TRUE SPORTS HD 1
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/78
 
-#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 2" tvg-logo="https://i.ibb.co/PDSNGWL/True-sport-2.jpg" group-title= SPORTS",TRUE SPORTS HD 2
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 2" tvg-logo="-" group-title= SPORTS",TRUE SPORTS HD 2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/79
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 TH" tvg-logo="https://i.ibb.co/LNGNc5k/Bein-1-th.jpg" group-title= ,BEIN SPORTS 1 TH
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 TH" tvg-logo="-" group-title= ,BEIN SPORTS 1 TH
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/81
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="https://i.ibb.co/RzpRzdz/Bein-3-th.jpg" group-title=,BEIN SPORTS 3 TH
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,BEIN SPORTS 3 TH
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/82
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,tennis
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/83
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,golf cH
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/84
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,caballos
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/85
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,fox
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/89
+
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 3" tvg-logo="https://i.ibb.co/KGgcb88/Sporttv-3.jpg" group-title= SPORTS",SPORTTV 3
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/93
