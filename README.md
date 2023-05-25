@@ -197,6 +197,26 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/29
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=  SPORTS" ,NBA Basquet
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/30
 
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=  SPORTS" ,Sky Sport main event
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/32
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=  SPORTS" ,Sky Sport Premier
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/33
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=  SPORTS" ,Sky Sport football
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/34
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=  SPORTS" ,Sky Sport Formula 1
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/35
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=  SPORTS" ,Sky Sport criket
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/38
+
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=  SPORTS" ,Sky Sport golf
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/39
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="https://i.ibb.co/Cs6DXtj/Bt1.jpg" group-title= SPORTS",BT SPORTS 1
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/43
 
