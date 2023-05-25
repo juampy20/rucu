@@ -281,17 +281,24 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/62
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sport 3 francia
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/63
 
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title= SPORTS",TRUE premier footbal
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/74
 
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title= SPORTS",TRUE premier ligue
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/75
 
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title= SPORTS",TRUE premier footbal
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/76
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title= SPORTS",TRUE premier footbal
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/77
 
 #EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title= SPORTS",TRUE SPORTS HD 1
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/78
+
 #EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 2" tvg-logo="https://i.ibb.co/PDSNGWL/True-sport-2.jpg" group-title= SPORTS",TRUE SPORTS HD 2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/79
+
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 TH" tvg-logo="https://i.ibb.co/LNGNc5k/Bein-1-th.jpg" group-title= ,BEIN SPORTS 1 TH
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/81
