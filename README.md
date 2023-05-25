@@ -343,10 +343,16 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/94
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png", group-title= SPORTS",V!X
 https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="-", group-title= SPORTS",RED BULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
+#EXTINF:-1 tvg-logo="-", group-title= SPORTS",super tennis
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/variant_720_manifest.m3u8
 
 
+#EXTINF:-1 tvg-logo="-", group-title= SPORTS", tennis channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 
 
