@@ -215,7 +215,11 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/38
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=  SPORTS" ,Sky Sport golf
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/39
 
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=  SPORTS" ,Eurosports 1
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/41
 
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=  SPORTS" ,Eurosports 2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/42
 
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="https://i.ibb.co/Cs6DXtj/Bt1.jpg" group-title= SPORTS",BT SPORTS 1
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/43
@@ -239,14 +243,6 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/93
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 4" tvg-logo="https://i.ibb.co/RBSxGsD/Sporttv-4.jpg" group-title= SPORTS",SPORTTV 4
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/94
-
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://i.ibb.co/mvWqwgn/Bein-1-hometv.jpg" group-title= SPORTS",BEIN 1
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/26
-
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN 3" tvg-logo="https://i.ibb.co/C0LchHL/Bein-3-hometv.jpg" group-title= SPORTS",BEIN 3
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/27
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title= SPORTS",TRUE SPORTS HD 1
