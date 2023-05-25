@@ -238,11 +238,18 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/46
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",SPORTTV 2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/47
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 3" tvg-logo="https://i.ibb.co/KGgcb88/Sporttv-3.jpg" group-title= SPORTS",SPORTTV 3
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/93
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 4" tvg-logo="https://i.ibb.co/RBSxGsD/Sporttv-4.jpg" group-title= SPORTS",SPORTTV 4
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/94
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports family
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/48
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports 2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/49
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 2" tvg-logo="https://i.ibb.co/zXHGSVv/Sporttv-2.jpg" group-title= SPORTS",bein sports 2 (copa libertadores y partidos argentinos)
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/52
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="TRUE SPORTS HD 1" tvg-logo="https://i.ibb.co/JpCHCkH/True-sport-1.jpg" group-title= SPORTS",TRUE SPORTS HD 1
@@ -254,6 +261,12 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/79
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/81
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="https://i.ibb.co/RzpRzdz/Bein-3-th.jpg" group-title=,BEIN SPORTS 3 TH
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/82
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 3" tvg-logo="https://i.ibb.co/KGgcb88/Sporttv-3.jpg" group-title= SPORTS",SPORTTV 3
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/93
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 4" tvg-logo="https://i.ibb.co/RBSxGsD/Sporttv-4.jpg" group-title= SPORTS",SPORTTV 4
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/94
 
 
 
