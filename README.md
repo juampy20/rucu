@@ -320,6 +320,17 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/85
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/89
 
 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,fox 505
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/90
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,fox 506
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/91
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,fox 507
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/92
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 3" tvg-logo="https://i.ibb.co/KGgcb88/Sporttv-3.jpg" group-title= SPORTS",SPORTTV 3
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/93
 
