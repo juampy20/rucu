@@ -111,90 +111,90 @@ https://4.trstream01.xyz/canal6/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= ASTRO SUPER SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= SPORTS" ,ASTRO SUPER SPORTS
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/01
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= ASTRO SUPER SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , ASTRO SUPER SPORTS 2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/02
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= ASTRO SUPER SPORTS 3
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , ASTRO SUPER SPORTS 3
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/03
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= ASTRO SUPER SPORTS 4
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , ASTRO SUPER SPORTS 4
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/04
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= ASTRO SUPER SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , ASTRO SUPER SPORTS 5
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/05
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= ASTRO ARENA
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= SPORTS" ,ASTRO ARENA
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/06
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= ASTRO CRICKET LIVE
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= SPORTS" ,ASTRO CRICKET LIVE
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/07
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= s PREMIER LIGUE
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , s PREMIER LIGUE
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/08
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= ASTRO SUPER SPORTS 
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , ASTRO SUPER SPORTS 
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/09
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= s LA LIGA
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , s LA LIGA
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/10
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= s MOTOR SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , s MOTOR SPORTS
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/11
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= s TENNIS
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , s TENNIS
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/12
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=s ACTION COMBATE
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" ,s ACTION COMBATE
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/13
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= s GOLF
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , s GOLF
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/14
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= s PSL
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , s PSL
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/16
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= s RUGBY
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , s RUGBY
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/17
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= s VARIETY 1
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , s VARIETY 1
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/18
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= s LA LIGA 2
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , s LA LIGA 2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/19
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= s VARIETY 2
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , s VARIETY 2
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/20
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= s VARIETY 4
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , s VARIETY 4
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/21
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= bein sports 1 eng
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , bein sports 1 eng
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/26
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= bein sports 4 eng
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , bein sports 4 eng
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/27
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= GOLF
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=SPORTS" , GOLF
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/29
 
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title= NBA Basquet
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="-" group-title=  SPORTS" ,NBA Basquet
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/30
 
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="https://i.ibb.co/Cs6DXtj/Bt1.jpg" group-title= SPORTS",BT SPORTS 1
