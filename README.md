@@ -35,22 +35,17 @@ https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 10 Neuquén 
 https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 10 (TVPublica)
 https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 6 Mar del Plata
 https://panel.dattalive.com/8166/8166/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 7 TV 
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 8 Mar del Plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 9 La Rioja
 https://inliveserver.com:1936/17012/17012/playlist.m3u8
@@ -78,6 +73,9 @@ https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="-" group-title="argentinos",Canal 4 Balcarce (360p)
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+
+
+
 
 
 
