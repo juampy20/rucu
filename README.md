@@ -89,7 +89,7 @@ http://190.131.247.82:8000/play/a022
 http://45.190.13.50:8002/play/a01k/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/48-489605_home-tv-shows-espn-espn-logo.png" group-title="test", espn 4  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_Extra.png" group-title="test", espn 4  test
 http://190.131.247.82:8000/play/a011
 
 
