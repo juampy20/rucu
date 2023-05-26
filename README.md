@@ -1,7 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="-" group-title="argentinos" ,test eventos
-https://linear-222.frequency.stream/222/hls/master/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/El_Trece.png" group-title="argentinos" ,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
@@ -39,6 +38,9 @@ https://panel.dattalive.com/8166/8166/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="-" group-title="deportes" ,T Y C SPORTS 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjXgjoMM5TcLb9QDpIv9w8ItcBczbUr8kKRH88w5cLQc54eTNSfOfRPtbWMrAZGNEd9hA&usqp=CAU" group-title="deportes" ,T Y C SPORTS 
+http://190.61.102.67:2000/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TyC_Sports.png" group-title="deportes" ,T Y C SPORTS opc 2
 http://45.179.140.242:8000/play/a0k7
