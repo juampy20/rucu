@@ -24,6 +24,11 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/Telefe.png" group-title="argentinos",TELEFE 8 de mar del plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mIbVx6yeWtI/hqdefault_live.jpg" group-title="argentinos",CANAL RURAL
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="argentinos",TYCsport
@@ -33,8 +38,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ext" group-title="argentinos",CANAL RURAL
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/dQ86x7V.png" group-title="argentinos",Canal 10 Córdoba 
