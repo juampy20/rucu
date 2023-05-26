@@ -94,7 +94,7 @@ http://190.131.247.82:8000/play/a020
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Natgeo.png" group-title="test", nat geo  test
 http://190.131.247.82:8000/play/a019
 
-#EXTINF:-1 tvg-logo="-" group-title="test", PLAYBOY  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/18+.png" group-title="test", PLAYBOY  test
 http://190.131.247.82:8000/play/a017
 
 
