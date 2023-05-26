@@ -138,7 +138,8 @@ http://190.131.247.82:8000/play/a014
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Food_Network.png" group-title="test",food network  test
 http://190.131.247.82:8000/play/a024
 
-
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Food_Network.png" group-title="test",food network 2 test
+http://190.131.247.82:8000/play/a047
 
 
 
