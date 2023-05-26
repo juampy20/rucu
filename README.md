@@ -19,6 +19,9 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/TN.png" group-title="argentinos" ,TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wBWK9tV9hBM/mqdefault.jpg" group-title="argentinos" ,C5N
+https://ythls.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
+
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/A24.png" group-title="argentinos",A 24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
