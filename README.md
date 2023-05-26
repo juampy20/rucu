@@ -109,6 +109,9 @@ http://190.131.247.82:8000/play/a00i
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/FX.png" group-title="test", FX test
 http://190.131.247.82:8000/play/a014
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Comedy_Central.png" group-title="test", Comedy Central test
+http://190.131.247.82:8000/play/a00p
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Food_Network.png" group-title="test",food network  test
 http://190.131.247.82:8000/play/a024
 
