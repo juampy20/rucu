@@ -15,23 +15,23 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/TN.png" group-title="argentinos" ,TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QGpHLgRnrx4/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAITaOehZX7EKVvU9oJOLDtO86ZvQ" group-title="argentinos",A 24
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/A24.png" group-title="argentinos",A 24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/Telefe.png" group-title="argentinos",TELEFE jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/Telefe.png" group-title="argentinos",TELEFE 8 de mar del plata
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 
 
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="argentinos",TYCsport
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="argentinos",TELEFE
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="argentinos",TELEFE 8 de mar del plata
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ext" group-title="argentinos",CANAL RURAL
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
