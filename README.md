@@ -75,6 +75,9 @@ http://181.224.161.138:1010/play/a07r/index.m3u8
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/winsports.png" group-title="test", Win Sports test
 http://190.131.247.82:8000/play/a01i
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" group-title="test", Movistar tv test
+http://190.131.247.82:8000/play/a02q
+
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ar_telehit-lat_m-e1632251997898.png" group-title="test", telehit test
 http://190.131.247.82:8000/play/a020  
