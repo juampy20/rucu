@@ -97,6 +97,9 @@ http://190.131.247.82:8000/play/a009
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt_m.png" group-title="test", tnt  test
 http://190.131.247.82:8000/play/a00l
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/universaltv.png" group-title="test", Universal test
+http://190.131.247.82:8000/play/a00z
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="test", tnt series test
 http://190.131.247.82:8000/play/a013
 
