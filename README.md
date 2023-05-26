@@ -89,7 +89,13 @@ http://190.131.247.82:8000/play/a022
 http://45.190.13.50:8002/play/a01k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ar_telehit-lat_m-e1632251997898.png" group-title="test", telehit test
-http://190.131.247.82:8000/play/a020   
+http://190.131.247.82:8000/play/a020  
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Telehit_Musica_logo-e1632252054190.png" group-title="test", telehit m  test
+http://190.131.247.82:8000/play/a011
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/MTV.png" group-title="test", MTV  test
+http://190.131.247.82:8000/play/a010
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Natgeo.png" group-title="test", nat geo  test
 http://190.131.247.82:8000/play/a019
