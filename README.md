@@ -89,6 +89,9 @@ http://190.131.247.82:8000/play/a022
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_2.png" group-title="test", ESPN 2 A test
 http://45.190.13.50:8002/play/a01k/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_3.png" group-title="test", ESPN 3 A test
+http://190.131.247.82:8000/play/a00m
+
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_Extra.png" group-title="test", espn 4  test
 http://190.131.247.82:8000/play/a011
