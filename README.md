@@ -29,18 +29,6 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="argentinos",TYCsport
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/dQ86x7V.png" group-title="argentinos",Canal 10 Córdoba 
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 
@@ -90,6 +78,7 @@ https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal4Balcarce.ar" tvg-logo="https://i.imgur.com/6xYbED7.png" group-title="argentinos",Canal 4 Balcarce (360p)
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="-" group-title="test", ESPN A  test
