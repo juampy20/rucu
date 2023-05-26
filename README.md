@@ -65,6 +65,10 @@ http://190.131.247.82:8000/play/a00n
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/GolTV.png" group-title="test", gol tv test
 http://181.224.161.138:1010/play/a07r/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/winsports.png" group-title="test", Win Sports test
+http://190.131.247.82:8000/play/a01i
+
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ar_telehit-lat_m-e1632251997898.png" group-title="test", telehit test
 http://190.131.247.82:8000/play/a020  
 
@@ -156,6 +160,8 @@ http://190.131.247.82:8000/play/a00x
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/HOLA_TV_Logo-scaled-e1632249696117.jpg" group-title="test",hola tv test
 http://190.131.247.82:8000/play/a00k
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Htv_logo.svg_-e1632251950359.png" group-title="test",HTV
+http://190.131.247.82:8000/play/a02d
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/18+.png" group-title="test", PLAYBOY  test
 http://190.131.247.82:8000/play/a017
