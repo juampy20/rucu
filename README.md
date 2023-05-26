@@ -4,11 +4,11 @@
 
 
 
-#EXTINF:-1 tvg-logo="-" group-title="argentinos" ,EL TRECE
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="argentinos" ,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="-" group-title="argentinos" ,TN
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tn_m.png" group-title="argentinos" ,TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="argentinos",A 24
