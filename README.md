@@ -333,64 +333,61 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/78
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/79
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 TH" tvg-logo="-" group-title= ,BEIN SPORTS 1 TH
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",BEIN SPORTS 1 TH
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/81
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,BEIN SPORTS 3 TH
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",BEIN SPORTS 3 TH
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/82
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,tennis
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",tennis
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/83
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,golf cH
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",golf cH
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/84
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,caballos
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",caballos
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/85
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,fox
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",fox
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/89
 
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,fox 505
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",fox 505
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/90
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,fox 506
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",fox 506
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/91
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 TH" tvg-logo="-" group-title=,fox 507
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",fox 507
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/92
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 3" tvg-logo="https://i.ibb.co/KGgcb88/Sporttv-3.jpg" group-title= SPORTS",SPORTTV 3
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",SPORTTV 3
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/93
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTTV 4" tvg-logo="https://i.ibb.co/RBSxGsD/Sporttv-4.jpg" group-title= SPORTS",SPORTTV 4
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",SPORTTV 4
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/94
 
 
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/ViX_Logo.png/1200px-ViX_Logo.png", group-title= SPORTS",V!X
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",V!X
 https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="-", group-title= SPORTS",RED BULL
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",RED BULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-
-#EXTINF:-1 tvg-logo="-", group-title= SPORTS",super tennis
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",super tennis
 https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/variant_720_manifest.m3u8
 
 
-#EXTINF:-1 tvg-logo="-", group-title= SPORTS", tennis channel
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", tennis channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="-", group-title= SPORTS", sport turkey
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", sport turkey
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="-", group-title= SPORTS", super lucha libre
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", super lucha libre
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
