@@ -79,19 +79,19 @@ https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-" group-title="test", ESPN A  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN A  test
 http://190.131.247.82:8000/play/a015
 
-#EXTINF:-1 tvg-logo="-" group-title="test", ESPN A  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN A  test
 http://190.131.247.82:8000/play/a022
 
-#EXTINF:-1 tvg-logo="-" group-title="test", ESPN 2 A test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_2.png" group-title="test", ESPN 2 A test
 http://45.190.13.50:8002/play/a01k/index.m3u8
 
-#EXTINF:-1 tvg-logo="-" group-title="test", telehit test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ar_telehit-lat_m-e1632251997898.png" group-title="test", telehit test
 http://190.131.247.82:8000/play/a020   
 
-#EXTINF:-1 tvg-logo="-" group-title="test", nat geo  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Natgeo.png" group-title="test", nat geo  test
 http://190.131.247.82:8000/play/a019
 
 #EXTINF:-1 tvg-logo="-" group-title="test", PLAYBOY  test
