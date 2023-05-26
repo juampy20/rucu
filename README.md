@@ -65,11 +65,19 @@ http://190.131.247.82:8000/play/a011
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_Extra.png" group-title="test", espn extra  test
 http://190.131.247.82:8000/play/a01d
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="test", fox sports 1 test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="test", fox sports  test
 http://190.131.247.82:8000/play/a02y
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="test", fox sports opc 2
+http://45.179.140.242:8000/play/a0k3
+
+
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-2.png" group-title="test", fox sports 2 test
 http://190.131.247.82:8000/play/a012
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-2.png" group-title="test", fox sports 2 opc 2
+http://45.179.140.242:8000/play/a0k3
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-3.png" group-title="test", fox sports 3 test
 http://190.131.247.82:8000/play/a00n
