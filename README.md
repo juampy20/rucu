@@ -129,6 +129,9 @@ http://181.224.161.138:1010/play/a05r/index.m3u8
 http://190.131.247.82:8000/play/a00j
 
 
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2012/04/trutv02.jpg" group-title="test",True tv test
+http://190.131.247.82:8000/play/a00r
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Telemundo.png" group-title="test",telemundo test
 http://181.224.161.138:1010/play/a08r/index.m3u8
 
