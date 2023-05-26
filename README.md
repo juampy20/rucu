@@ -88,6 +88,9 @@ http://190.131.247.82:8000/play/a00a
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/tudn.png" group-title="test", TUDN test
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg" group-title="test", CLARO SPORTS test
+http://190.61.102.67:31589/play/a053/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/GolTV.png" group-title="test", gol tv test
 http://181.224.161.138:1010/play/a07r/index.m3u8
 
