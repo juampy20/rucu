@@ -96,6 +96,8 @@ http://190.131.247.82:8000/play/a011
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-2.png" group-title="test", fox sports 2 test
 http://190.131.247.82:8000/play/a012
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/GolTV.png" group-title="test", gol tv test
+http://181.224.161.138:1010/play/a07r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ar_telehit-lat_m-e1632251997898.png" group-title="test", telehit test
 http://190.131.247.82:8000/play/a020  
