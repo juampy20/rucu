@@ -49,8 +49,11 @@ http://45.190.13.50:8002/play/a01k/index.m3u8
 http://190.131.247.82:8000/play/a00m
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_Extra.png" group-title="test", espn 4  test
+#EXTINF:-1 tvg-logo="https://futbollibre.lol/img/logo-canal/ESPN_4.webp" group-title="test", espn 4  test
 http://190.131.247.82:8000/play/a011
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_Extra.png" group-title="test", espn extra  test
+http://190.131.247.82:8000/play/a01d
 
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-2.png" group-title="test", fox sports 2 test
