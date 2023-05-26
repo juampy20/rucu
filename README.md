@@ -138,6 +138,10 @@ http://190.131.247.82:8000/play/a00r
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Telemundo.png" group-title="test",telemundo test
 http://181.224.161.138:1010/play/a08r/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/descarga-8-e1632252492459.png" group-title="test",Sun Chanell test
+http://190.131.247.82:8000/play/a00u
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/HOLA_TV_Logo-scaled-e1632249696117.jpg" group-title="test",hola tv test
 http://190.131.247.82:8000/play/a00k
 
