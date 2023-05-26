@@ -1,75 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="-" group-title="(-)" ,T Y C SPORTS 
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-
-
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",I-DIRECTV Sports Plus
-http://live.budtvlight.com:25461/Luna001/18dabf00/37839
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",I-Directv Spots HD (CO)
-http://live.budtvlight.com:25461/Luna001/18dabf00/37841
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",I-Directv Spots HD (EC)
-http://live.budtvlight.com:25461/Luna001/18dabf00/37842
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",FOX SPORTS 2 MX SD
-http://live.budtvlight.com:25461/Luna001/18dabf00/30336
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",FOX SPORTS 3 MX SD
-http://live.budtvlight.com:25461/Luna001/18dabf00/30337
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",FOX SPORTS MX HD
-http://live.budtvlight.com:25461/Luna001/18dabf00/30338
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",FOX SPORTS MX SD
-http://live.budtvlight.com:25461/Luna001/18dabf00/3170
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Fox Sports Premium MX (p)
-http://live.budtvlight.com:25461/Luna001/18dabf00/53540
-
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Espn + SD
-http://live.budtvlight.com:25461/Luna001/18dabf00/1677
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Fox Soccer Plus
-http://live.budtvlight.com:25461/Luna001/18dabf00/1681
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Fox Sports 3 HD (i)
-http://live.budtvlight.com:25461/Luna001/18dabf00/56069
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",TVC DEPORTES
-http://live.budtvlight.com:25461/Luna001/18dabf00/1867
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Win Sports + HD (p)
-http://live.budtvlight.com:25461/Luna001/18dabf00/1788
-
-
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn.webp" group-title="DEPORTES", ESPN AR
-http://170.239.188.252:5000/play/a007/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn.webp" group-title="DEPORTES", ESPN 🇨🇴
-http://190.131.247.82:8000/play/a022
-
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn2.webp" group-title="DEPORTES", ESPN 2 AR
-http://190.131.247.82:8000/play/a00b
-
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn3.webp" group-title="DEPORTES", ESPN 3 AR
-http://190.131.247.82:8000/play/a00m
-
-#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn3.webp" group-title="DEPORTES", ESPN EXTRA
-http://190.131.247.82:8000/play/a01d
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" group-title="DEPORTES", TUDN M SD 
-http://190.61.102.67:31589/play/a08j/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="DEPORTES",TUDN USA
-http://143.244.60.97/TUDN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="DEPORTES" user-agent="Roku(10.10.10)",TUDN USA 1
-http://23.237.108.234/hls/USA_TUDN.m3u8
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="-" group-title="(-)" ,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
@@ -150,6 +80,197 @@ https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal4Balcarce.ar" tvg-logo="https://i.imgur.com/6xYbED7.png" group-title="Undefined",Canal 4 Balcarce (360p)
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="-" group-title="(-)" ,T Y C SPORTS 
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",I-DIRECTV Sports Plus
+http://live.budtvlight.com:25461/Luna001/18dabf00/37839
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",I-Directv Spots HD (CO)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37841
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",I-Directv Spots HD (EC)
+http://live.budtvlight.com:25461/Luna001/18dabf00/37842
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",FOX SPORTS 2 MX SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/30336
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",FOX SPORTS 3 MX SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/30337
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",FOX SPORTS MX HD
+http://live.budtvlight.com:25461/Luna001/18dabf00/30338
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",FOX SPORTS MX SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/3170
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Fox Sports Premium MX (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/53540
+
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Espn + SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1677
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Fox Soccer Plus
+http://live.budtvlight.com:25461/Luna001/18dabf00/1681
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Fox Sports 3 HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/56069
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",TVC DEPORTES
+http://live.budtvlight.com:25461/Luna001/18dabf00/1867
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Win Sports + HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/1788
+
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn.webp" group-title="DEPORTES", ESPN AR
+http://170.239.188.252:5000/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn.webp" group-title="DEPORTES", ESPN 🇨🇴
+http://190.131.247.82:8000/play/a022
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn2.webp" group-title="DEPORTES", ESPN 2 AR
+http://190.131.247.82:8000/play/a00b
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn3.webp" group-title="DEPORTES", ESPN 3 AR
+http://190.131.247.82:8000/play/a00m
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn3.webp" group-title="DEPORTES", ESPN EXTRA
+http://190.131.247.82:8000/play/a01d
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" group-title="DEPORTES", TUDN M SD 
+http://190.61.102.67:31589/play/a08j/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="DEPORTES",TUDN USA
+http://143.244.60.97/TUDN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="DEPORTES" user-agent="Roku(10.10.10)",TUDN USA 1
+http://23.237.108.234/hls/USA_TUDN.m3u8
+
+#EXTINF:-1 tvg-id="XHDFAztecaUno.mx" group-title="LOCALES", 101 Uno
+http://190.61.102.67:31589/play/a04p/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" group-title="LOCALES", 102 CANAL DE LAS ESTRELLAS
+http://190.61.102.67:31589/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="ImagenTV.mx" group-title="LOCALES", 103 Imagen
+http://190.61.102.67:31589/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" group-title="LOCALES", 105 Cinco
+http://190.61.102.67:31589/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOCALES", 106 Multimedios
+http://190.61.102.67:31589/play/a039/index.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" group-title="LOCALES", 107 Siete
+http://190.61.102.67:31589/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" group-title="LOCALES", 111 ONCE
+http://190.61.102.67:31589/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="Canal14.mx" group-title="LOCALES", 114 Canal 14
+http://190.61.102.67:31589/play/a044/index.m3u8
+#EXTINF:-1 tvg-id="TVUNAM.mx" group-title="LOCALES", 120 UNAM
+http://190.61.102.67:31589/play/a045/index.m3u8
+#EXTINF:-1 tvg-id="XEIMTTVMetropolitan(Canal22).mx" group-title="LOCALES", 122 Canal22
+http://190.61.102.67:31589/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" group-title="LOCALES", 145 Congreso
+http://190.61.102.67:31589/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="MVSTV.mx" group-title="ENTRETENIMIENTO", 152 MVSTV
+http://190.61.102.67:31589/play/a03b/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.mx" group-title="ENTRETENIMIENTO", 206 Universal
+http://190.61.102.67:31589/play/a03d/index.m3u8
+#EXTINF:-1 tvg-id="CanalSony.mx" group-title="ENTRETENIMIENTO", 208 SONY
+http://190.61.102.67:31589/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="WarnerChannel.mx" group-title="ENTRETENIMIENTO", 210 WB
+http://190.61.102.67:31589/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.mx" group-title="ENTRETENIMIENTO", 30-214 TNTSE
+http://190.61.102.67:31589/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="AXN.mx" group-title="ENTRETENIMIENTO", 222 AXN
+http://190.61.102.67:31589/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="FX.mx" group-title="ENTRETENIMIENTO", 224 FX
+http://190.61.102.67:31589/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="Space.mx" group-title="CINE", 226 Space MX
+http://190.61.102.67:31589/play/a04x/index.m3u8
+#EXTINF:-1 tvg-id="AandE.mx" group-title="ENTRETENIMIENTO", 230 A&E
+http://190.61.102.67:31589/play/a03f/index.m3u8
+#EXTINF:-1 tvg-id="ID.mx" group-title="ENTRETENIMIENTO", 234 Investigation Discovery La
+http://190.61.102.67:31589/play/a04y/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" group-title="CONOCIMIENTO", 29-236 DH&H
+http://190.61.102.67:31589/play/a03g/index.m3u8
+#EXTINF:-1 tvg-id="TLC.mx" group-title="ENTRETENIMIENTO", 240 TLC
+http://190.61.102.67:31589/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.mx" group-title="ENTRETENIMIENTO", 242 Lifetime
+http://190.61.102.67:31589/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="HolaTV.mx" group-title="ENTRETENIMIENTO", 246 HOLA
+http://190.61.102.67:31589/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="EEntertainmentTV.mx" group-title="ENTRETENIMIENTO", 248 E!
+http://190.61.102.67:31589/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="TBS.co" group-title="ENTRETENIMIENTO", 250 TBS
+http://190.61.102.67:31589/play/a00o/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.mx" group-title="ENTRETENIMIENTO", 21 - 252 ComedyC
+http://190.61.102.67:31589/play/a04a/index.m3u8
+#EXTINF:-1 tvg-id="EXATV.mx" group-title="MUSICA", 264 EXETV
+http://190.61.102.67:31589/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="LaMejorTV.mx" group-title="MUSICA", 266 MejorTV
+http://190.61.102.67:31589/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="Videorola.mx" group-title="MUSICA", 268 VideRola
+http://190.61.102.67:31589/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="Teleritmo.mx" group-title="MUSICA", 276 TELER
+http://190.61.102.67:31589/play/a03u/index.m3u8
+#EXTINF:-1 tvg-id="XEIPNTDT2.mx" group-title="LOCALES", 280 OnceKids
+http://190.61.102.67:31589/play/a04f/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.mx" group-title="KIDS", 282 DisneyJR
+http://190.61.102.67:31589/play/a03j/index.m3u8
+#EXTINF:-1 tvg-id="Nick.mx" group-title="KIDS", 27-286 NICKELODEON
+http://190.61.102.67:31589/play/a014/index.m3u8
+#EXTINF:-1 tvg-id="EXATV.mx" group-title="MUSICA", 288 EXE TV
+http://190.61.102.67:31589/play/a00s/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" group-title="KIDS", 23 - 290 CartoonNetwork
+http://190.61.102.67:31589/play/a03k/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" group-title="KIDS", 25-292 Discovery kids
+http://190.61.102.67:31589/play/a015/index.m3u8
+#EXTINF:-1 tvg-id="MXNuestroCine.mx" group-title="LOCALES", 304 MXNC
+http://190.61.102.67:31589/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="IngenioTV.mx" group-title="LOCALES", 306 IngenioTV
+http://190.61.102.67:31589/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" group-title="CONOCIMIENTO", 308 Discovery
+http://190.61.102.67:31589/play/a03x/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.mx" group-title="CONOCIMIENTO", 312 NatGeo
+http://190.61.102.67:31589/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="History.mx" group-title="CONOCIMIENTO", 318 History
+http://190.61.102.67:31589/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="History2.mx" group-title="CONOCIMIENTO", 320 History2
+http://190.61.102.67:31589/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="ClassicArtsShowcase(English).mx" group-title="MUSICA", 322 Arts
+http://190.61.102.67:31589/play/a04j/index.m3u8
+#EXTINF:-1 tvg-id="CLaroSports.mx" group-title="DEPORTES", 336 Claro Sport
+http://190.61.102.67:31589/play/a053/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" group-title="DEPORTES", 338 ESPN 2
+http://190.61.102.67:31589/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" group-title="DEPORTES", 342 ESPN
+http://190.61.102.67:31589/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" group-title="DEPORTES", 344 ESPN3
+http://190.61.102.67:31589/play/a03n/index.m3u8
+#EXTINF:-1 tvg-id="CNNEnEspanol.mx" group-title="INFORMACIÓN", 350 CNNE
+http://190.61.102.67:31589/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="MilenioTV.mx" group-title="INFORMACIÓN", 356 Milenio
+http://190.61.102.67:31589/play/a00y/index.m3u8
+#EXTINF:-1 tvg-id="MeganoticiasMX.mx" group-title="INFORMACIÓN", 358 MN
+http://190.61.102.67:31589/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.mx" group-title="INFORMACIÓN", 360 Judicial
+http://190.61.102.67:31589/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="TNT.mx" group-title="CINE", 31-370 TNT
+http://190.61.102.67:31589/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="MC.mx" group-title="CINE", 372 MC
+http://190.61.102.67:31589/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.mx" group-title="CINE", 378 CineCanal O
+http://190.61.102.67:31589/play/a04q/index.m3u8
+#EXTINF:-1 tvg-id="FilmandArts.mx" group-title="CINE", 384 Films
+http://190.61.102.67:31589/play/a08i/index.m3u8
+#EXTINF:-1 tvg-id="StudioUniversal.mx" group-title="CINE", 386 StudioUniversal
+http://190.61.102.67:31589/play/a04o/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.mx" group-title="CINE", 388 Paramount
+http://190.61.102.67:31589/play/a01s/index.m3u8
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" group-title="LOCALES", 101 Uno
