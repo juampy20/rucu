@@ -85,6 +85,9 @@ http://190.131.247.82:8000/play/a00n
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TNT_Sports_Ch.png" group-title="test", TNT Sport chile test
 http://190.131.247.82:8000/play/a00a
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/tudn.png" group-title="test", TUDN test
+http://190.61.102.67:31589/play/a08j/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/GolTV.png" group-title="test", gol tv test
 http://181.224.161.138:1010/play/a07r/index.m3u8
 
