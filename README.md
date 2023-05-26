@@ -35,7 +35,7 @@ https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="argentinos",Canal 10 Neuquén 
 https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="argentinos",Canal 10 (TVPublica)
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="argentinos",Canal 10 
 https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="argentinos",Canal 6 Mar del Plata
