@@ -4,10 +4,10 @@
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/El_Trece.png" group-title="argentinos" ,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/america-tv.png" group-title="argentinos",America tv
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/America_TV_Nuevo_logo_Junio_2020-e1632236317216.png" group-title="argentinos",America tv
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/tv-publica.png" group-title="argentinos",TV PUBLICA
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/1200px-TVP_-_Television_Publica_2021.svg_-e1632236378785.png" group-title="argentinos",TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/Canal_9.png" group-title="argentinos",EL NUEVE https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
