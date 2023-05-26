@@ -103,36 +103,6 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 
 
 
-#EXTINF:-1 group-title="deportes",I-DIRECTV Sports Plus
-http://live.budtvlight.com:25461/Luna001/18dabf00/37839
-#EXTINF:-1 group-title="deportes",I-Directv Spots HD (CO)
-http://live.budtvlight.com:25461/Luna001/18dabf00/37841
-#EXTINF:-1 group-title="deportes",I-Directv Spots HD (EC)
-http://live.budtvlight.com:25461/Luna001/18dabf00/37842
-#EXTINF:-1 group-title="deportes",FOX SPORTS 2 MX SD
-http://live.budtvlight.com:25461/Luna001/18dabf00/30336
-#EXTINF:-1 group-title="deportes",FOX SPORTS 3 MX SD
-http://live.budtvlight.com:25461/Luna001/18dabf00/30337
-#EXTINF:-1 group-title="deportes",FOX SPORTS MX HD
-http://live.budtvlight.com:25461/Luna001/18dabf00/30338
-#EXTINF:-1 group-title="deportes",FOX SPORTS MX SD
-http://live.budtvlight.com:25461/Luna001/18dabf00/3170
-#EXTINF:-1 group-title="deportes",Fox Sports Premium MX (p)
-http://live.budtvlight.com:25461/Luna001/18dabf00/53540
-#EXTINF:-1 group-title="deportes",Espn + SD
-http://live.budtvlight.com:25461/Luna001/18dabf00/1677
-#EXTINF:-1 group-title="deportes",Fox Soccer Plus
-http://live.budtvlight.com:25461/Luna001/18dabf00/1681
-#EXTINF:-1 group-title="deportes",Fox Sports 3 HD (i)
-http://live.budtvlight.com:25461/Luna001/18dabf00/56069
-#EXTINF:-1 group-title="deportes",TVC DEPORTES
-http://live.budtvlight.com:25461/Luna001/18dabf00/1867
-#EXTINF:-1 group-title="deportes",Win Sports + HD (p)
-http://live.budtvlight.com:25461/Luna001/18dabf00/1788
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 1 
 https://5.trstream01.xyz/canal6/stream.m3u8
 
