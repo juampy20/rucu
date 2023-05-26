@@ -62,8 +62,7 @@ http://143.244.60.97/TUDN/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="DEPORTES" user-agent="Roku(10.10.10)",TUDN USA 1
 http://23.237.108.234/hls/USA_TUDN.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="USA",TUDN USAA
-http://45.5.118.226:8000/play/a04z/index.m3u8
+
 
 
 
