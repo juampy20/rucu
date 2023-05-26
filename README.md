@@ -49,14 +49,12 @@ http://190.131.247.82:8000/play/a00m
 http://190.131.247.82:8000/play/a01d
 
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/being_sports_en_espanol-mediano.png" group-title="DEPORTES",BEIN SPORTS Ñ
-http://181.78.11.238:6837/play/a02o
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yqJNGQX/Tudn-negativo-logo-C092-B48-E7-F-seeklogo-com.png" group-title="DEPORTES", TUDN M SD 
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="DEPORTES" user-agent="Roku(10.10.10)",TUDN US
-http://23.237.108.234/hls/USA_TUDN.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.roc21.com/blog/wp-content/uploads/2019/05/logo-tudn-2.jpg" group-title="DEPORTES",TUDN USA
 http://143.244.60.97/TUDN/index.m3u8
