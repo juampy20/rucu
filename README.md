@@ -39,6 +39,9 @@ https://panel.dattalive.com/8166/8166/playlist.m3u8
 #EXTINF:-1 tvg-logo="-" group-title="deportes" ,T Y C SPORTS 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TyC_Sports.png" group-title="deportes" ,T Y C SPORTS opc 2
+http://45.179.140.242:8000/play/a0k7
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN A  test
 http://190.131.247.82:8000/play/a015
 
