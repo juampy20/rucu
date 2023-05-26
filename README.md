@@ -92,6 +92,11 @@ http://45.190.13.50:8002/play/a01k/index.m3u8
 #EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/48-489605_home-tv-shows-espn-espn-logo.png" group-title="test", espn 4  test
 http://190.131.247.82:8000/play/a011
 
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-2.png" group-title="test", fox sports 2 test
+http://190.131.247.82:8000/play/a012
+
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ar_telehit-lat_m-e1632251997898.png" group-title="test", telehit test
 http://190.131.247.82:8000/play/a020  
 
@@ -104,6 +109,15 @@ http://190.131.247.82:8000/play/a019
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/E!.png" group-title="test", enterteinatmen  test
 http://190.131.247.82:8000/play/a023
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/history.png" group-title="test", history  test
+http://190.131.247.82:8000/play/a004
+
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/A&E.png" group-title="test", A&E test
+http://190.131.247.82:8000/play/a005
+
+
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Food_Network.png" group-title="test",food network  test
 http://190.131.247.82:8000/play/a024
