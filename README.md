@@ -86,37 +86,37 @@ https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-" group-title="(-)" ,T Y C SPORTS 
+#EXTINF:-1 tvg-logo="-" group-title="(deportes)" ,T Y C SPORTS 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",I-DIRECTV Sports Plus
+#EXTINF:-1 group-title="CANALES VARIADOS (deportes)",I-DIRECTV Sports Plus
 http://live.budtvlight.com:25461/Luna001/18dabf00/37839
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",I-Directv Spots HD (CO)
+#EXTINF:-1 group-title="CANALES VARIADOS (deportes)",I-Directv Spots HD (CO)
 http://live.budtvlight.com:25461/Luna001/18dabf00/37841
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",I-Directv Spots HD (EC)
+#EXTINF:-1 group-title="CANALES VARIADOS (deportes)",I-Directv Spots HD (EC)
 http://live.budtvlight.com:25461/Luna001/18dabf00/37842
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",FOX SPORTS 2 MX SD
+#EXTINF:-1 group-title="CANALES VARIADOS (deportes)",FOX SPORTS 2 MX SD
 http://live.budtvlight.com:25461/Luna001/18dabf00/30336
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",FOX SPORTS 3 MX SD
+#EXTINF:-1 group-title="CANALES VARIADOS (deportes)",FOX SPORTS 3 MX SD
 http://live.budtvlight.com:25461/Luna001/18dabf00/30337
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",FOX SPORTS MX HD
+#EXTINF:-1 group-title="CANALES VARIADOS (deportes)",FOX SPORTS MX HD
 http://live.budtvlight.com:25461/Luna001/18dabf00/30338
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",FOX SPORTS MX SD
+#EXTINF:-1 group-title="CANALES VARIADOS (deportes)",FOX SPORTS MX SD
 http://live.budtvlight.com:25461/Luna001/18dabf00/3170
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Fox Sports Premium MX (p)
+#EXTINF:-1 group-title="CANALES VARIADOS (deportes)",Fox Sports Premium MX (p)
 http://live.budtvlight.com:25461/Luna001/18dabf00/53540
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Espn + SD
+#EXTINF:-1 group-title="CANALES VARIADOS (deportes)",Espn + SD
 http://live.budtvlight.com:25461/Luna001/18dabf00/1677
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Fox Soccer Plus
+#EXTINF:-1 group-title="CANALES VARIADOS (deportes)",Fox Soccer Plus
 http://live.budtvlight.com:25461/Luna001/18dabf00/1681
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Fox Sports 3 HD (i)
+#EXTINF:-1 group-title="CANALES VARIADOS (deportes)",Fox Sports 3 HD (i)
 http://live.budtvlight.com:25461/Luna001/18dabf00/56069
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",TVC DEPORTES
+#EXTINF:-1 group-title="CANALES VARIADOS (deportes)",TVC DEPORTES
 http://live.budtvlight.com:25461/Luna001/18dabf00/1867
-#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Win Sports + HD (p)
+#EXTINF:-1 group-title="CANALES VARIADOS (deportes)",Win Sports + HD (p)
 http://live.budtvlight.com:25461/Luna001/18dabf00/1788
 
 
