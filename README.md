@@ -137,6 +137,9 @@ http://190.131.247.82:8000/play/a013
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Star_Channel.png" group-title="test",star chanell test
 http://190.131.247.82:8000/play/a00e
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/1200px-Pasiones_Tv_logo.svg_-e1632249748742.png" group-title="test", pasiones test
+http://190.131.247.82:8000/play/a00i
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/FX.png" group-title="test", FX test
 http://190.131.247.82:8000/play/a014
 
