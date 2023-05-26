@@ -134,6 +134,9 @@ http://190.131.247.82:8000/play/a009
 #EXTINF:-1 tvg-logo="-" group-title="test", tnt series test
 http://190.131.247.82:8000/play/a013
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Star_Channel.png" group-title="test",star chanell test
+http://190.131.247.82:8000/play/a00e
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/FX.png" group-title="test", FX test
 http://190.131.247.82:8000/play/a014
 
