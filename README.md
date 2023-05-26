@@ -144,6 +144,9 @@ http://190.131.247.82:8000/play/a00w
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/descarga-8-e1632252492459.png" group-title="test",Sun Chanell test
 http://190.131.247.82:8000/play/a00u
 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="test",Theater
+http://190.131.247.82:8000/play/a00x
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/HOLA_TV_Logo-scaled-e1632249696117.jpg" group-title="test",hola tv test
 http://190.131.247.82:8000/play/a00k
 
