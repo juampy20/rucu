@@ -94,6 +94,9 @@ http://190.61.102.67:31589/play/a08j/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg" group-title="test", CLARO SPORTS test
 http://190.61.102.67:31589/play/a053/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="test", Bein Sports extra
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/GolTV.png" group-title="test", gol tv test
 http://181.224.161.138:1010/play/a07r/index.m3u8
 
