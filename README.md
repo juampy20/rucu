@@ -1,5 +1,12 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn.webp" group-title="-", ESPN A  test
+http://190.131.247.82:8000/play/a015
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn2.webp" group-title="DEPORTES", ESPN 2 A test
+http://45.190.13.50:8002/play/a01k/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="-" group-title="argentinos" ,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
