@@ -22,6 +22,17 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/3170
 #EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Fox Sports Premium MX (p)
 http://live.budtvlight.com:25461/Luna001/18dabf00/53540
 
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Espn + SD
+http://live.budtvlight.com:25461/Luna001/18dabf00/1677
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Fox Soccer Plus
+http://live.budtvlight.com:25461/Luna001/18dabf00/1681
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Fox Sports 3 HD (i)
+http://live.budtvlight.com:25461/Luna001/18dabf00/56069
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",TVC DEPORTES
+http://live.budtvlight.com:25461/Luna001/18dabf00/1867
+#EXTINF:-1 group-title="CANALES VARIADOS (intermitente)",Win Sports + HD (p)
+http://live.budtvlight.com:25461/Luna001/18dabf00/1788
+
 
 #EXTINF:-1 tvg-logo="-" group-title="(-)" ,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
