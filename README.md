@@ -1,7 +1,7 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/El_Trece.png" group-title="argentinos" ,EL TRECE
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/El_Trece.png" group-title="argentinos" ,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/america-tv.png" group-title="argentinos",America tv
@@ -18,10 +18,10 @@ https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/A24.png" group-title="argentinos",A 24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/Telefe.png" group-title="argentinos",TELEFE jujuy
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Telefe.png" group-title="argentinos",TELEFE jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/Telefe.png" group-title="argentinos",TELEFE 8 de mar del plata
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Telefe.png" group-title="argentinos",TELEFE 8 de mar del plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/mIbVx6yeWtI/hqdefault_live.jpg" group-title="argentinos",CANAL RURAL
