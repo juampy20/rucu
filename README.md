@@ -152,6 +152,11 @@ http://190.131.247.82:8000/play/a047
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Discovery_Kids.png" group-title="test",discovery kids test
 http://181.224.161.138:1010/play/a05r/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Disney_Channel.png" group-title="test",disney chanell test
+http://190.131.247.82:8000/play/a00j
+
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Telemundo.png" group-title="test",telemundo test
 http://181.224.161.138:1010/play/a08r/index.m3u8
 
