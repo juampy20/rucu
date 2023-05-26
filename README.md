@@ -88,11 +88,13 @@ http://190.131.247.82:8000/play/a022
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_2.png" group-title="test", ESPN 2 A test
 http://45.190.13.50:8002/play/a01k/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/48-489605_home-tv-shows-espn-espn-logo.png" group-title="test", espn 4  test
+http://190.131.247.82:8000/play/a011
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ar_telehit-lat_m-e1632251997898.png" group-title="test", telehit test
 http://190.131.247.82:8000/play/a020  
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Telehit_Musica_logo-e1632252054190.png" group-title="test", telehit m  test
-http://190.131.247.82:8000/play/a011
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/MTV.png" group-title="test", MTV  test
 http://190.131.247.82:8000/play/a010
