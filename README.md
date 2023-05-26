@@ -129,6 +129,12 @@ http://190.131.247.82:8000/play/a008
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Space.png" group-title="test", space test
 http://190.131.247.82:8000/play/a009
 
+#EXTINF:-1 tvg-logo="-" group-title="test", tnt series test
+http://190.131.247.82:8000/play/a013
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/FX.png" group-title="test", FX test
+http://190.131.247.82:8000/play/a014
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Food_Network.png" group-title="test",food network  test
 http://190.131.247.82:8000/play/a024
 
