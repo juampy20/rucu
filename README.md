@@ -62,6 +62,8 @@ http://190.131.247.82:8000/play/a011
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_Extra.png" group-title="test", espn extra  test
 http://190.131.247.82:8000/play/a01d
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="test", fox sports 1 test
+http://190.131.247.82:8000/play/a02y
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-2.png" group-title="test", fox sports 2 test
 http://190.131.247.82:8000/play/a012
