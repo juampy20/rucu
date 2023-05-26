@@ -10,8 +10,9 @@ https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 #EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/tv-publica.png" group-title="argentinos",TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/Canal_9.png" group-title="argentinos",EL NUEVE https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tn_m.png" group-title="argentinos" ,TN
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/TN.png" group-title="argentinos" ,TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QGpHLgRnrx4/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAITaOehZX7EKVvU9oJOLDtO86ZvQ" group-title="argentinos",A 24
@@ -21,8 +22,7 @@ https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="argentinos",EL NUEVE   
-https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
 
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="argentinos",TYCsport
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
