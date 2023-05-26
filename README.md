@@ -117,7 +117,8 @@ http://190.131.247.82:8000/play/a004
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/A&E.png" group-title="test", A&E test
 http://190.131.247.82:8000/play/a005
 
-
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Sony_Channel.png" group-title="test", Sony test
+http://190.131.247.82:8000/play/a006
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Food_Network.png" group-title="test",food network  test
 http://190.131.247.82:8000/play/a024
