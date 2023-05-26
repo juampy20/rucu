@@ -11,10 +11,10 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tn_m.png" group-title="argentinos" ,TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="argentinos",A 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="argentinos",A 24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="argentinos",America tv
+#EXTINF:-1 tvg-logo="https://i.argentino.com.ar/images/2013/0515/776159-america-tv-uno-de-los-5-canales-de-aire-de-buenos-aires-20130515040412606.jpg" group-title="argentinos",America tv
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
 #EXTINF:-1 tvg-id="ext" group-title="argentinos",TV PUBLICA
