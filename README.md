@@ -45,30 +45,30 @@ http://190.61.102.67:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TyC_Sports.png" group-title="deportes" ,T Y C SPORTS opc 2
 http://45.179.140.242:8000/play/a0k7
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN A  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN A  
 http://190.131.247.82:8000/play/a015
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN B  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN B  
 http://190.131.247.82:8000/play/a022
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN C  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN C  
 http://190.131.247.82:8000/play/a02h
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_2.png" group-title="test", ESPN 2 A test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_2.png" group-title="test", ESPN 2  
 http://45.190.13.50:8002/play/a01k/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_3.png" group-title="test", ESPN 3 A test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_3.png" group-title="test", ESPN 3 
 http://190.131.247.82:8000/play/a00m
 
 
-#EXTINF:-1 tvg-logo="https://futbollibre.lol/img/logo-canal/ESPN_4.webp" group-title="test", espn 4  test
+#EXTINF:-1 tvg-logo="https://futbollibre.lol/img/logo-canal/ESPN_4.webp" group-title="test", espn 4  
 http://190.131.247.82:8000/play/a011
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_Extra.png" group-title="test", espn extra  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_Extra.png" group-title="test", espn extra  
 http://190.131.247.82:8000/play/a01d
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="test", fox sports  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="test", fox sports  
 http://190.131.247.82:8000/play/a02y
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="test", fox sports opc 2
@@ -76,126 +76,126 @@ http://45.179.140.242:8000/play/a0k3
 
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-2.png" group-title="test", fox sports 2 test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-2.png" group-title="test", fox sports 2 
 http://190.131.247.82:8000/play/a012
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-2.png" group-title="test", fox sports 2 opc 2
 http://45.179.140.242:8000/play/a0k3
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-3.png" group-title="test", fox sports 3 test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-3.png" group-title="test", fox sports 3
 http://190.131.247.82:8000/play/a00n
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TNT_Sports_Ch.png" group-title="test", TNT Sport chile test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TNT_Sports_Ch.png" group-title="test", TNT Sport chile 
 http://190.131.247.82:8000/play/a00a
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/tudn.png" group-title="test", TUDN test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/tudn.png" group-title="test", TUDN 
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg" group-title="test", CLARO SPORTS test
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg" group-title="test", CLARO SPORTS 
 http://190.61.102.67:31589/play/a053/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="test", Bein Sports extra
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/GolTV.png" group-title="test", gol tv test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/GolTV.png" group-title="test", Gol tv 
 http://181.224.161.138:1010/play/a07r/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/winsports.png" group-title="test", Win Sports test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/winsports.png" group-title="test", Win Sports 
 http://190.131.247.82:8000/play/a01i
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" group-title="test", Movistar tv test
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" group-title="test", Movistar tv 
 http://190.131.247.82:8000/play/a02q
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ar_telehit-lat_m-e1632251997898.png" group-title="test", telehit test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ar_telehit-lat_m-e1632251997898.png" group-title="test", telehit 
 http://190.131.247.82:8000/play/a020  
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/MTV.png" group-title="test", MTV  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/MTV.png" group-title="test", MTV  
 http://190.131.247.82:8000/play/a010
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Natgeo.png" group-title="test", nat geo  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Natgeo.png" group-title="test", nat geo  
 http://190.131.247.82:8000/play/a019
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/E!.png" group-title="test", enterteinatmen  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/E!.png" group-title="test", enterteinatmen 
 http://190.131.247.82:8000/play/a023
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/history.png" group-title="test", history  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/history.png" group-title="test", history 
 http://190.131.247.82:8000/play/a004
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/A&E.png" group-title="test", A&E test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/A&E.png" group-title="test", A&E 
 http://190.131.247.82:8000/play/a005
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Sony_Channel.png" group-title="test", Sony test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Sony_Channel.png" group-title="test", Sony 
 http://190.131.247.82:8000/play/a006
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Warner_TV.png" group-title="test", warner test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Warner_TV.png" group-title="test", Warner 
 http://190.131.247.82:8000/play/a007
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/AXN.png" group-title="test", axn test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/AXN.png" group-title="test", AXN
 http://190.131.247.82:8000/play/a008
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Space.png" group-title="test", space test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Space.png" group-title="test", Space 
 http://190.131.247.82:8000/play/a009
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt_m.png" group-title="test", tnt  test
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt_m.png" group-title="test", TNT  
 http://190.131.247.82:8000/play/a00l
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/universaltv.png" group-title="test", Universal test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/universaltv.png" group-title="test", Universal 
 http://190.131.247.82:8000/play/a00z
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="test", tnt series test
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="test", TNT series 
 http://190.131.247.82:8000/play/a013
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Star_Channel.png" group-title="test",star chanell test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Star_Channel.png" group-title="test",star chanell 
 http://190.131.247.82:8000/play/a00e
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/1200px-Pasiones_Tv_logo.svg_-e1632249748742.png" group-title="test", pasiones test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/1200px-Pasiones_Tv_logo.svg_-e1632249748742.png" group-title="test", pasiones 
 http://190.131.247.82:8000/play/a00i
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/FX.png" group-title="test", FX test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/FX.png" group-title="test", FX 
 http://190.131.247.82:8000/play/a014
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Comedy_Central.png" group-title="test", Comedy Central test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Comedy_Central.png" group-title="test", Comedy Central 
 http://190.131.247.82:8000/play/a00p
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Food_Network.png" group-title="test",food network  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Food_Network.png" group-title="test",food network  
 http://190.131.247.82:8000/play/a024
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/El_Gourmet.png" group-title="test",Gourmet  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/El_Gourmet.png" group-title="test",Gourmet  
 http://190.131.247.82:8000/play/a00s
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Food_Network.png" group-title="test",food network 2 test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Food_Network.png" group-title="test",food network 2 
 http://190.131.247.82:8000/play/a047
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="test",Discovery ID test
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="test",Discovery ID 
 http://190.131.247.82:8000/play/a00q
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Discovery_Kids.png" group-title="test",discovery kids test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Discovery_Kids.png" group-title="test",discovery kids 
 http://181.224.161.138:1010/play/a05r/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Disney_Channel.png" group-title="test",disney chanell test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Disney_Channel.png" group-title="test",disney chanell 
 http://190.131.247.82:8000/play/a00j
 
 
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2012/04/trutv02.jpg" group-title="test",True tv test
+#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2012/04/trutv02.jpg" group-title="test",True tv 
 http://190.131.247.82:8000/play/a00r
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Telemundo.png" group-title="test",telemundo test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Telemundo.png" group-title="test",telemundo 
 http://181.224.161.138:1010/play/a08r/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-home-and-health_m.png" group-title="test",home and healt test
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-home-and-health_m.png" group-title="test",home and healt 
 http://190.131.247.82:8000/play/a00w
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/descarga-8-e1632252492459.png" group-title="test",Sun Chanell test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/descarga-8-e1632252492459.png" group-title="test",Sun Chanell 
 http://190.131.247.82:8000/play/a00u
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="test",Theater
 http://190.131.247.82:8000/play/a00x
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/HOLA_TV_Logo-scaled-e1632249696117.jpg" group-title="test",hola tv test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/HOLA_TV_Logo-scaled-e1632249696117.jpg" group-title="test",hola tv 
 http://190.131.247.82:8000/play/a00k
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Htv_logo.svg_-e1632251950359.png" group-title="test",HTV
@@ -205,7 +205,7 @@ http://190.131.247.82:8000/play/a02d
 http://190.131.247.82:8000/play/a02i
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/18+.png" group-title="test", PLAYBOY  test
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/18+.png" group-title="test", PLAYBOY  
 http://190.131.247.82:8000/play/a017
 
 
