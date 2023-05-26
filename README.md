@@ -29,54 +29,54 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://i.imgur.com/dQ86x7V.png" group-title="argentinos",Canal 10 Córdoba 
+#EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 10 Córdoba 
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal10Neuquen.ar" tvg-logo="https://i.imgur.com/HVlnnDo.png" group-title="argentinos",Canal 10 Neuquén 
+#EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 10 Neuquén 
 https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal10SanRafael.ar" tvg-logo="https://i.imgur.com/teoaBPx.png" group-title="argentinos",Canal 10 (TVPublica)
+#EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 10 (TVPublica)
 https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal6MardePlata.ar" tvg-logo="https://i.imgur.com/fNaIrvV.png" group-title="argentinos",Canal 6 Mar del Plata
+#EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 6 Mar del Plata
 https://panel.dattalive.com/8166/8166/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal7TV.ar" tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="argentinos",Canal 7 TV 
+#EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 7 TV 
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal8MardelPlata.ar" tvg-logo="https://i.imgur.com/G7TaQ1L.png" group-title="argentinos",Canal 8 Mar del Plata
+#EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 8 Mar del Plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal9LaRioja.ar" tvg-logo="https://i.imgur.com/Sy7lBuk.png" group-title="argentinos",Canal 9 La Rioja
+#EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 9 La Rioja
 https://inliveserver.com:1936/17012/17012/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal50Morteros.ar" tvg-logo="https://i.imgur.com/IDhgBav.png" group-title="argentinos",Canal 50 (Morteros)
+#EXTINF:-1  tvg-logo="-" group-title="argentinos",Canal 50 (Morteros)
 https://coopmorteros.online/canal50/vivo.m3u8
 
-#EXTINF:-1 tvg-id="Canal79SanJuan.ar" tvg-logo="https://i.imgur.com/I93ypGY.png" group-title="argentinos",Canal 79 San Juan 
+#EXTINF:-1 tvg-logo="-" group-title="argentinos",Canal 79 San Juan 
 https://streamconex.com:1936/sanjuan/sanjuan/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal3Pinamar.ar" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="argentinos",CN3 Pinamar 
+#EXTINF:-1  tvg-logo="-" group-title="argentinos",CN3 Pinamar 
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RTN.ar" tvg-logo="https://i.imgur.com/daMqavf.jpg" group-title="argentinos",RTN (Neuquén) 
+#EXTINF:-1  tvg-logo="-" group-title="argentinos",RTN (Neuquén) 
 https://media.neuquen.gov.ar/rtn/television/media.m3u8
 
-#EXTINF:-1 tvg-id="Canal2Jujuy.ar" tvg-logo="https://i.imgur.com/q0FyrAv.png" group-title="argentinos",Canal 2 Jujuy 
+#EXTINF:-1  tvg-logo="-" group-title="argentinos",Canal 2 Jujuy 
 https://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
 
-#EXTINF:-1 tvg-id="Canal2Jujuy.ar" tvg-logo="https://i.imgur.com/q0FyrAv.png" group-title="argentinos",Canal 13 Jujuy 
+#EXTINF:-1  tvg-logo="-" group-title="argentinos",Canal 13 Jujuy 
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
-#EXTINF:-1 tvg-id="Canal3Formosa.ar" tvg-logo="https://i.imgur.com/rVDrNIy.png" group-title="argentinos",Canal 3 Formosa 
+#EXTINF:-1  tvg-logo="-" group-title="argentinos",Canal 3 Formosa 
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal4Balcarce.ar" tvg-logo="https://i.imgur.com/6xYbED7.png" group-title="argentinos",Canal 4 Balcarce (360p)
+#EXTINF:-1  tvg-logo="-" group-title="argentinos",Canal 4 Balcarce (360p)
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
 
