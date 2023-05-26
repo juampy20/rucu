@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/El_Trece.png" group-title="argentinos" ,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Telefe.png" group-title="argentinos" ,TELEFE INTERN
+http://190.131.247.82:8000/play/a02g
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/America_TV_Nuevo_logo_Junio_2020-e1632236317216.png" group-title="argentinos",America tv
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
