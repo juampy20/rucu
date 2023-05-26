@@ -17,10 +17,10 @@ https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.argentino.com.ar/images/2013/0515/776159-america-tv-uno-de-los-5-canales-de-aire-de-buenos-aires-20130515040412606.jpg" group-title="argentinos",America tv
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="argentinos",TV PUBLICA
+#EXTINF:-1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/04/01/b7h20c62f5-tv-publica-en-vivo.jpg" group-title="argentinos",TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="argentinos",EL NUEVE   
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="argentinos",EL NUEVE   
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
 #EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="argentinos",TYCsport
