@@ -1,33 +1,33 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="-" group-title="(-)" ,EL TRECE
+#EXTINF:-1 tvg-logo="-" group-title="argentinos" ,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
-#EXTINF:-1 tvg-logo="-" group-title="(-)" ,TN
+#EXTINF:-1 tvg-logo="-" group-title="argentinos" ,TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="-",A 24
+#EXTINF:-1 tvg-id="ext" group-title="argentinos",A 24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="-",America tv
+#EXTINF:-1 tvg-id="ext" group-title="argentinos",America tv
 https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="-",TV PUBLICA
+#EXTINF:-1 tvg-id="ext" group-title="argentinos",TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="-",EL NUEVE   
+#EXTINF:-1 tvg-id="ext" group-title="argentinos",EL NUEVE   
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="-",TYCsport
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="argentinos",TYCsport
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="-",TELEFE
+#EXTINF:-1 tvg-id="ext" group-title="argentinos",TELEFE
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="-",TELEFE 8 de mar del plata
+#EXTINF:-1 tvg-id="ext" group-title="argentinos",TELEFE 8 de mar del plata
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="-",CANAL RURAL
+#EXTINF:-1 tvg-id="ext" group-title="argentinos",CANAL RURAL
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 
