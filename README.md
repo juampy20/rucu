@@ -1,24 +1,25 @@
 #EXTM3U 
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-trece_m.png" group-title="argentinos" ,EL TRECE
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/El_Trece.png" group-title="argentinos" ,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/america-tv.png" group-title="argentinos",America tv
+https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.com/imagenes2/tv-publica.png" group-title="argentinos",TV PUBLICA
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tn_m.png" group-title="argentinos" ,TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="argentinos",A 24
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/QGpHLgRnrx4/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAITaOehZX7EKVvU9oJOLDtO86ZvQ" group-title="argentinos",A 24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.argentino.com.ar/images/2013/0515/776159-america-tv-uno-de-los-5-canales-de-aire-de-buenos-aires-20130515040412606.jpg" group-title="argentinos",America tv
-https://ythls.onrender.com/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
 
-#EXTINF:-1 tvg-logo="https://libero.cronosmedia.glr.pe/taxonomy/tag/image/2022/04/01/b7h20c62f5-tv-publica-en-vivo.jpg" group-title="argentinos",TV PUBLICA
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="argentinos",EL NUEVE   
 https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
