@@ -34,6 +34,22 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/1867
 http://live.budtvlight.com:25461/Luna001/18dabf00/1788
 
 
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn.webp" group-title="DEPORTES", ESPN AR
+http://170.239.188.252:5000/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn.webp" group-title="DEPORTES", ESPN 🇨🇴
+http://190.131.247.82:8000/play/a022
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn2.webp" group-title="DEPORTES", ESPN 2 AR
+http://190.131.247.82:8000/play/a00b
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn3.webp" group-title="DEPORTES", ESPN 3 AR
+http://190.131.247.82:8000/play/a00m
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn3.webp" group-title="DEPORTES", ESPN EXTRA
+http://190.131.247.82:8000/play/a01d
+
+
 #EXTINF:-1 tvg-logo="-" group-title="(-)" ,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
