@@ -29,19 +29,19 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/10_Salta.png" group-title="argentinos",Canal 10 Córdoba 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="argentinos",Canal 10 Córdoba 
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/10_Salta.png" group-title="argentinos",Canal 10 Neuquén 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="argentinos",Canal 10 Neuquén 
 https://stmv1.srvstm.com/tv10/tv10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/10_Salta.png" group-title="argentinos",Canal 10 (TVPublica)
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="argentinos",Canal 10 (TVPublica)
 https://streamcasthd.com:1936/tvdiez/tvdiez/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/245px-C6Digital-1-e1632236781788.png" group-title="argentinos",Canal 6 Mar del Plata
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="argentinos",Canal 6 Mar del Plata
 https://panel.dattalive.com/8166/8166/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/El_Siete.png" group-title="argentinos",Canal 7 TV 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="argentinos",Canal 7 TV 
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="argentinos",Canal 8 Mar del Plata
