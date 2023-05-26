@@ -170,6 +170,10 @@ http://190.131.247.82:8000/play/a00k
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Htv_logo.svg_-e1632251950359.png" group-title="test",HTV
 http://190.131.247.82:8000/play/a02d
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/lifetime-e1632252438462.png" group-title="test",LIFETIME
+http://190.131.247.82:8000/play/a02i
+
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/18+.png" group-title="test", PLAYBOY  test
 http://190.131.247.82:8000/play/a017
 
