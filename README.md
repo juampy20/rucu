@@ -48,6 +48,18 @@ http://190.61.102.67:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TyC_Sports.png" group-title="deportes" ,T Y C SPORTS opc 2
 http://45.179.140.242:8000/play/a0k7
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o=s180" group-title="test", TIGO SPORTS
+http://45.190.13.50:8000/play/a03z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/11/Foto-eSports.png" group-title="test", DIRECTV Sports +
+http://45.190.13.50:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/11/Foto-eSports.png" group-title="test", DIRECTV Sports 
+http://45.190.13.50:8000/play/a03v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/11/Foto-eSports.png" group-title="test", DIRECTV Sports 2
+http://45.190.13.50:8000/play/a03w/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN A  
 http://190.131.247.82:8000/play/a015
 
@@ -67,6 +79,9 @@ http://190.131.247.82:8000/play/a00m
 
 #EXTINF:-1 tvg-logo="https://futbollibre.lol/img/logo-canal/ESPN_4.webp" group-title="test", espn 4  
 http://190.131.247.82:8000/play/a011
+
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN +
+http://45.190.13.50:8000/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_Extra.png" group-title="test", espn extra  
 http://190.131.247.82:8000/play/a01d
