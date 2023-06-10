@@ -60,6 +60,9 @@ http://45.190.13.50:8000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/11/Foto-eSports.png" group-title="test", DIRECTV Sports 2
 http://45.190.13.50:8000/play/a03w/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN 2 star mas
+http://45.190.13.50:8002/play/a01j/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN A  
 http://190.131.247.82:8000/play/a015
 
