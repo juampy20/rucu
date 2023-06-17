@@ -574,6 +574,92 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Panavision https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Promar tv https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",TVS https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Solo Stand up https://paneltv.online:1936/8116/8116/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",EX TV https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",TRT https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Torococo https://oracle.streaminghd.cl:443/torococotelevision/torococotelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Sabinas https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",ADN 40 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Canal 10 Cancun https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Canal 10 Chiapas https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Canal Nuevo Leon https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Santillo https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Jalisco https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Mexiquense https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios CDMX https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios Guadlajara https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios Laguna https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios Monterrey https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",RCG Saltillos 1 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",RCG Saltillos 3 https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Teleplay https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Teleritmo https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",AMX N https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Alcance Tv https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/partypoker.webp",us spades➾ Party Poker [Plex] https://bit.ly/3orqoZ6?/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wptPoker.png",us spades➾ Poker tv [Distrotv] https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://wst.tv/apple-touch-icon.png",us 8ball➾ World Billiards tv [Otteratv] https://bit.ly/3JYZmO5?/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="DistroTV_Billiard TV" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/billiardTV.webp",us 8ball➾ Billiard TV [Distrotv] https://bit.ly/43xuvkW?/playlist720_p.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTVLCOPT:network-caching=1000 #EXTVLCOPT:http-user-agent="FireFox" #EXTVLCOPT--http-reconnect=true #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=b9fc5a15382b35818904ecbeed545fd0:8b4d83e2c382780ca615ce6cd6754d79 #EXTINF:-1 tvg-logo="-" group-title="PERU", America Tv Peru https://1011-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Latina https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",TV Peru HD https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Panamericana https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Memorias tv https://mediacp.us:8081/8002/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Antares https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Autentico https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Genios https://live.obslivestream.com/geniostvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",hechicera tv https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",OK tv https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Peru Channel https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Telecolor https://live.obslivestream.com/telecolormux/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Tv 5 https://live.obslivestream.com/tv5/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Peruanisima http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Mayo tv https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
 
