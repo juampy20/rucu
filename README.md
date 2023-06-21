@@ -108,53 +108,6 @@ http://190.131.247.82:8000/play/a01i
 
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Discovery_Kids.png" group-title="test",discovery kids 
-http://181.224.161.138:1010/play/a05r/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Disney_Channel.png" group-title="test",disney chanell 
-http://190.131.247.82:8000/play/a00j
-
-
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2012/04/trutv02.jpg" group-title="test",True tv 
-http://190.131.247.82:8000/play/a00r
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Telemundo.png" group-title="test",telemundo 
-http://181.224.161.138:1010/play/a08r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-home-and-health_m.png" group-title="test",home and healt 
-http://190.131.247.82:8000/play/a00w
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/descarga-8-e1632252492459.png" group-title="test",Sun Chanell 
-http://190.131.247.82:8000/play/a00u
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="test",Theater
-http://190.131.247.82:8000/play/a00x
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/HOLA_TV_Logo-scaled-e1632249696117.jpg" group-title="test",hola tv 
-http://190.131.247.82:8000/play/a00k
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Htv_logo.svg_-e1632251950359.png" group-title="test",HTV
-http://190.131.247.82:8000/play/a02d
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/lifetime-e1632252438462.png" group-title="test",LIFETIME
-http://190.131.247.82:8000/play/a02i
-
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/18+.png" group-title="test", PLAYBOY  
-http://190.131.247.82:8000/play/a017
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="argentinos",Canal 10 Córdoba 
 https://stream.arcast.live/canal10/ngrp:canal10_all/playlist.m3u8
 
