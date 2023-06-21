@@ -49,50 +49,23 @@ http://190.61.102.67:2000/play/a08m/index.m3u8
 http://45.179.140.242:8000/play/a0k7
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN A  
-http://190.131.247.82:8000/play/a015
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN B  
-http://190.131.247.82:8000/play/a022
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN C  
-http://190.131.247.82:8000/play/a02h
-
 #EXTINF:-1,ESPN 2 HD
 http://181.224.201.151:5577/play/a00l/index.m3u8
 
 #EXTINF:-1,ESPN +
 http://181.209.194.242:8080/play/a0s4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://futbollibre.lol/img/logo-canal/ESPN_4.webp" group-title="test", espn 4  
-http://190.131.247.82:8000/play/a011
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_Extra.png" group-title="test", espn extra  
-http://190.131.247.82:8000/play/a01d
-
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="test", fox sports  
-http://190.131.247.82:8000/play/a02y
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="test", fox sports opc 2
 http://45.179.140.242:8000/play/a0k3
 
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-2.png" group-title="test", fox sports 2 
-http://190.131.247.82:8000/play/a012
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-2.png" group-title="test", fox sports 2 opc 2
-http://45.179.140.242:8000/play/a0k3
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-3.png" group-title="test", fox sports 3
-http://190.131.247.82:8000/play/a00n
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TNT_Sports_Ch.png" group-title="test", TNT Sport chile 
-http://190.131.247.82:8000/play/a00a
-
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/tudn.png" group-title="test", TUDN 
 http://190.61.102.67:31589/play/a08j/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/412626363011457024/s87vGCpO_400x400.jpeg" group-title="test", CLARO SPORTS 
 http://190.61.102.67:31589/play/a053/index.m3u8
@@ -100,11 +73,12 @@ http://190.61.102.67:31589/play/a053/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="test", Bein Sports extra
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/GolTV.png" group-title="test", Gol tv 
 http://181.224.161.138:1010/play/a07r/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/winsports.png" group-title="test", Win Sports 
-http://190.131.247.82:8000/play/a01i
+
 
 
 
