@@ -106,74 +106,7 @@ http://181.224.161.138:1010/play/a07r/index.m3u8
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/winsports.png" group-title="test", Win Sports 
 http://190.131.247.82:8000/play/a01i
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Movistar_TV_Per%C3%BA.jpg" group-title="test", Movistar tv 
-http://190.131.247.82:8000/play/a02q
 
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ar_telehit-lat_m-e1632251997898.png" group-title="test", telehit 
-http://190.131.247.82:8000/play/a020  
-
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/MTV.png" group-title="test", MTV  
-http://190.131.247.82:8000/play/a010
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Natgeo.png" group-title="test", nat geo  
-http://190.131.247.82:8000/play/a019
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/E!.png" group-title="test", enterteinatmen 
-http://190.131.247.82:8000/play/a023
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/history.png" group-title="test", history 
-http://190.131.247.82:8000/play/a004
-
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/A&E.png" group-title="test", A&E 
-http://190.131.247.82:8000/play/a005
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Sony_Channel.png" group-title="test", Sony 
-http://190.131.247.82:8000/play/a006
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Warner_TV.png" group-title="test", Warner 
-http://190.131.247.82:8000/play/a007
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/AXN.png" group-title="test", AXN
-http://190.131.247.82:8000/play/a008
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Space.png" group-title="test", Space 
-http://190.131.247.82:8000/play/a009
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt_m.png" group-title="test", TNT  
-http://190.131.247.82:8000/play/a00l
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/universaltv.png" group-title="test", Universal 
-http://190.131.247.82:8000/play/a00z
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tnt-series_m.png" group-title="test", TNT series 
-http://190.131.247.82:8000/play/a013
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Star_Channel.png" group-title="test",star chanell 
-http://190.131.247.82:8000/play/a00e
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/1200px-Pasiones_Tv_logo.svg_-e1632249748742.png" group-title="test", pasiones 
-http://190.131.247.82:8000/play/a00i
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/FX.png" group-title="test", FX 
-http://190.131.247.82:8000/play/a014
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Comedy_Central.png" group-title="test", Comedy Central 
-http://190.131.247.82:8000/play/a00p
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Food_Network.png" group-title="test",food network  
-http://190.131.247.82:8000/play/a024
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/El_Gourmet.png" group-title="test",Gourmet  
-http://190.131.247.82:8000/play/a00s
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Food_Network.png" group-title="test",food network 2 
-http://190.131.247.82:8000/play/a047
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CanalDiscoveryIDLA.png" group-title="test",Discovery ID 
-http://190.131.247.82:8000/play/a00q
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Discovery_Kids.png" group-title="test",discovery kids 
 http://181.224.161.138:1010/play/a05r/index.m3u8
