@@ -260,366 +260,6 @@ https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://canales.online/img/logo_canal/Canal_13_San_Luis.png" group-title="argentinos",Canal 4 Balcarce (360p)
 https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 1 
-https://5.trstream01.xyz/canal6/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 2 
-https://5.trstream01.xyz/canal3/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 3 
-https://2.trstream01.xyz/canal4/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 4 
-https://3.trstream01.xyz/canal2/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 5
-https://2.trstream01.xyz/canal6/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 6 
-https://3.trstream01.xyz/canal6/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 7 
-https://1.trstream01.xyz/canal6/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 8 
-https://4.trstream01.xyz/canal6/stream.m3u8
-
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial" ,ASTRO SUPER SPORTS
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/01
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial" , ASTRO SUPER SPORTS 2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/02
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", ASTRO SUPER SPORTS 3
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/03
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", ASTRO SUPER SPORTS 4
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/04
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", ASTRO SUPER SPORTS 5
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/05
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial" ,ASTRO ARENA
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/06
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",ASTRO CRICKET LIVE
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/07
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", s PREMIER LIGUE
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/08
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", ASTRO SUPER SPORTS 
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/09
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial" , s LA LIGA
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/10
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial" , s MOTOR SPORTS
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/11
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", s TENNIS
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/12
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial" ,s ACTION COMBATE
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/13
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", s GOLF
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/14
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", s PSL
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/16
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", s RUGBY
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/17
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", s VARIETY 1
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/18
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", s LA LIGA 2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/19
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial" , s VARIETY 2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/20
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", s VARIETY 4
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/21
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial" , bein sports 1 eng
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/26
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", bein sports 4 eng
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/27
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", GOLF
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/29
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial" ,NBA Basquet
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/30
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",Sky Sport main event
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/32
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial" ,Sky Sport Premier
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/33
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",Sky Sport football
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/34
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",Sky Sport Formula 1
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/35
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial" ,Sky Sport criket
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/38
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",Sky Sport golf
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/39
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",Eurosports 1
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/41
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",Eurosports 2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/42
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",BT SPORTS 1
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/43
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",BT SPORTS 2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/44
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",BT SPORTS 3
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/45
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",SPORTTV 1
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/46
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",SPORTTV 2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/47
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",bein sports family
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/48
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",bein sports 2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/49
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",bein sports 2 (copa libertadores y partidos argentinos)
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/52
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",bein sports 3 (copa libertadores y partidos argentinos)
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/53
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",bein sports 4 (copa libertadores y maxicanos)
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/54
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",bein sports 4 (copa libertadores y maxicanos)
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/55
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",bein sports 6 
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/56
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",olympic chanell
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/57
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",bein sport 1 ENG
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/58
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",bein sport 2ENG
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/59
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",bein sport 3ENG (libertadores america)
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/60
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",bein sport 4ENG (
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/61
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",bein sport 2 francia
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/62
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",bein sport 3 francia
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/63
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",TRUE premier footbal
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/74
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",TRUE premier ligue
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/75
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",TRUE premier footbal
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/76
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",TRUE premier footbal
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/77
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",TRUE SPORTS HD 1
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/78
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",TRUE SPORTS HD 2
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/79
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",BEIN SPORTS 1 TH
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/81
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",BEIN SPORTS 3 TH
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/82
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",tennis
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/83
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",golf cH
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/84
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",caballos
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/85
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",fox
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/89
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",fox 505
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/90
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",fox 506
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/91
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",fox 507
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/92
-
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",SPORTTV 3
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/93
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",SPORTTV 4
-http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/94
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",V!X
-https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",RED BULL
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",super tennis
-https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/variant_720_manifest.m3u8
-
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", tennis channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", sport turkey
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", super lucha libre
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
-
-#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Panavision https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Promar tv https://vcp.myplaytv.com/promar/promar/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",TVS https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Solo Stand up https://paneltv.online:1936/8116/8116/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",EX TV https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",TRT https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Torococo https://oracle.streaminghd.cl:443/torococotelevision/torococotelevision/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Sabinas https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",ADN 40 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Canal 10 Cancun https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Canal 10 Chiapas https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Canal Nuevo Leon https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Santillo https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Jalisco https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Mexiquense https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios CDMX https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios Guadlajara https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios Laguna https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios Monterrey https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",RCG Saltillos 1 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",RCG Saltillos 3 https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Teleplay https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Teleritmo https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",AMX N https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Alcance Tv https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/partypoker.webp",us spades➾ Party Poker [Plex] https://bit.ly/3orqoZ6?/playlist720_p.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wptPoker.png",us spades➾ Poker tv [Distrotv] https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://wst.tv/apple-touch-icon.png",us 8ball➾ World Billiards tv [Otteratv] https://bit.ly/3JYZmO5?/playlist720_p.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-id="DistroTV_Billiard TV" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/billiardTV.webp",us 8ball➾ Billiard TV [Distrotv] https://bit.ly/43xuvkW?/playlist720_p.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTVLCOPT:network-caching=1000 #EXTVLCOPT:http-user-agent="FireFox" #EXTVLCOPT--http-reconnect=true #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=b9fc5a15382b35818904ecbeed545fd0:8b4d83e2c382780ca615ce6cd6754d79 #EXTINF:-1 tvg-logo="-" group-title="PERU", America Tv Peru https://1011-vos.dtvott.com/DASH/manifest.mpd
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",Latina https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",TV Peru HD https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",Panamericana https://cdnhd.iblups.com/hls/ptv2.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",Memorias tv https://mediacp.us:8081/8002/index.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",Antares https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",Autentico https://live.obslivestream.com/autenticatvmux/index.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",Genios https://live.obslivestream.com/geniostvmux/index.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",hechicera tv https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",OK tv https://stream.plixitv.live/oktv/oktv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",Peru Channel https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",Telecolor https://live.obslivestream.com/telecolormux/index.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",Tv 5 https://live.obslivestream.com/tv5/index.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",Peruanisima http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="-" group-title="PERU",Mayo tv https://live.obslivestream.com/viaaltomayomux/index.m3u8
-
 #EXTINF:-1,AE Mundo
 http://181.78.4.186:8000/play/a0f1/index.m3u8
 #EXTINF:-1,AXN
@@ -778,3 +418,139 @@ http://181.78.4.186:8000/play/a0kd/index.m3u8
 http://181.78.4.186:8000/play/a0dr/index.m3u8
 #EXTINF:-1,Zoom
 http://181.78.4.186:8000/play/a0gh/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 1 
+https://5.trstream01.xyz/canal6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 2 
+https://5.trstream01.xyz/canal3/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 3 
+https://2.trstream01.xyz/canal4/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 4 
+https://3.trstream01.xyz/canal2/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 5
+https://2.trstream01.xyz/canal6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 6 
+https://3.trstream01.xyz/canal6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 7 
+https://1.trstream01.xyz/canal6/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 8 
+https://4.trstream01.xyz/canal6/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",V!X
+https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",RED BULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial",super tennis
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/variant_720_manifest.m3u8
+
+
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", tennis channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", sport turkey
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="deportes mundial", super lucha libre
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Panavision https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Promar tv https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",TVS https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Solo Stand up https://paneltv.online:1936/8116/8116/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",EX TV https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",TRT https://vcp3.myplaytv.com/trt/trt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="VENEZUELA",Torococo https://oracle.streaminghd.cl:443/torococotelevision/torococotelevision/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Sabinas https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",ADN 40 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Canal 10 Cancun https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Canal 10 Chiapas https://5ca9af4645e15.streamlock.net:443/chiapas/videochiapas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Canal Nuevo Leon https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Santillo https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Jalisco https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Mexiquense https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios CDMX https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios Guadlajara https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios Laguna https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Multimedios Monterrey https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",RCG Saltillos 1 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",RCG Saltillos 3 https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Teleplay https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Teleritmo https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",AMX N https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="MEXICO",Alcance Tv https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/partypoker.webp",us spades➾ Party Poker [Plex] https://bit.ly/3orqoZ6?/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/wptPoker.png",us spades➾ Poker tv [Distrotv] https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="Billhar & Poker" tvg-logo="https://wst.tv/apple-touch-icon.png",us 8ball➾ World Billiards tv [Otteratv] https://bit.ly/3JYZmO5?/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="DistroTV_Billiard TV" group-title="Billhar & Poker" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/billiardTV.webp",us 8ball➾ Billiard TV [Distrotv] https://bit.ly/43xuvkW?/playlist720_p.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive #EXTVLCOPT:network-caching=1000 #EXTVLCOPT:http-user-agent="FireFox" #EXTVLCOPT--http-reconnect=true #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=b9fc5a15382b35818904ecbeed545fd0:8b4d83e2c382780ca615ce6cd6754d79 #EXTINF:-1 tvg-logo="-" group-title="PERU", America Tv Peru https://1011-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Latina https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",TV Peru HD https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Panamericana https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Memorias tv https://mediacp.us:8081/8002/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Antares https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Autentico https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Genios https://live.obslivestream.com/geniostvmux/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",hechicera tv https://video.misistemareseller.com:443/corporationhc/corporationhc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",OK tv https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Peru Channel https://stmv1.duvoxtv.com.br/peruchannel/peruchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Telecolor https://live.obslivestream.com/telecolormux/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Tv 5 https://live.obslivestream.com/tv5/index.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Peruanisima http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" group-title="PERU",Mayo tv https://live.obslivestream.com/viaaltomayomux/index.m3u8
+
