@@ -48,20 +48,6 @@ http://190.61.102.67:2000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/TyC_Sports.png" group-title="deportes" ,T Y C SPORTS opc 2
 http://45.179.140.242:8000/play/a0k7
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o=s180" group-title="test", TIGO SPORTS
-http://45.190.13.50:8000/play/a03z/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/11/Foto-eSports.png" group-title="test", DIRECTV Sports +
-http://45.190.13.50:8000/play/a03x/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/11/Foto-eSports.png" group-title="test", DIRECTV Sports 
-http://45.190.13.50:8000/play/a03v/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.grupoisos.com/wp-content/uploads/2022/11/Foto-eSports.png" group-title="test", DIRECTV Sports 2
-http://45.190.13.50:8000/play/a03w/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN 2 star mas
-http://45.190.13.50:8002/play/a01j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN A  
 http://190.131.247.82:8000/play/a015
@@ -72,39 +58,12 @@ http://190.131.247.82:8000/play/a022
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN C  
 http://190.131.247.82:8000/play/a02h
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN star mas
-http://45.190.13.50:8002/play/a01f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_2.png" group-title="test", ESPN 2  
-http://45.190.13.50:8002/play/a01k/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_3.png" group-title="test", ESPN 3 star mas
-http://45.190.13.50:8002/play/a01h/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_3.png" group-title="test", ESPN 3 
-http://190.131.247.82:8000/play/a00m
-
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_3.png" group-title="test", ESPN 3 opc 2
-http://45.190.13.50:8002/play/a01l/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://futbollibre.lol/img/logo-canal/ESPN_4.webp" group-title="test", espn 4  
 http://190.131.247.82:8000/play/a011
 
-#EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN +
-http://45.190.13.50:8000/play/a040/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN_Extra.png" group-title="test", espn extra  
 http://190.131.247.82:8000/play/a01d
-
-#EXTINF:-1 tvg-logo="https://futbollibre.lol/img/logo-canal/ESPN_4.webp" group-title="test", espn 4  
-http://45.190.13.50:8002/play/a01m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://futbollibre.lol/img/logo-canal/ESPN_4.webp" group-title="test", espn 4  opc 2
-http://45.190.13.50:8002/play/a01i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://futbollibre.lol/img/logo-canal/ESPN_4.webp" group-title="test", espn 4  star mas
-http://45.190.13.50:8002/play/a01e/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="test", fox sports  
@@ -112,7 +71,6 @@ http://190.131.247.82:8000/play/a02y
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="test", fox sports opc 2
 http://45.179.140.242:8000/play/a0k3
-
 
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports-2.png" group-title="test", fox sports 2 
