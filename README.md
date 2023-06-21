@@ -421,6 +421,29 @@ http://181.78.4.186:8000/play/a0gh/index.m3u8
 
 
 
+#EXTINF:-1,Animal Planet HD
+http://181.224.201.219:5577/play/a00r/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://181.224.201.219:5577/play/a00u/index.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://181.224.201.219:5577/play/a00p/index.m3u8
+#EXTINF:-1,Discovery HD
+http://181.224.201.219:5577/play/a00t/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://181.224.201.219:5577/play/a00o/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://181.224.201.219:5577/play/a00l/index.m3u8
+#EXTINF:-1,El Gourmet HD
+http://181.224.201.219:5577/play/a00n/index.m3u8
+#EXTINF:-1,ID HD
+http://181.224.201.219:5577/play/a00m/index.m3u8
+#EXTINF:-1,Kanal D Drama HD
+http://181.224.201.219:5577/play/a00q/index.m3u8
+#EXTINF:-1,Las Estrellas HD
+http://181.224.201.219:5577/play/a00s/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://181.224.201.219:5577/play/a00k/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 1 
 https://5.trstream01.xyz/canal6/stream.m3u8
 
