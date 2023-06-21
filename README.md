@@ -58,6 +58,10 @@ http://190.131.247.82:8000/play/a022
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/ESPN.png" group-title="test", ESPN C  
 http://190.131.247.82:8000/play/a02h
 
+#EXTINF:-1,ESPN 2 HD
+http://181.224.201.151:5577/play/a00l/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://futbollibre.lol/img/logo-canal/ESPN_4.webp" group-title="test", espn 4  
 http://190.131.247.82:8000/play/a011
 
