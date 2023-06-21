@@ -55,7 +55,12 @@ http://181.224.201.151:5577/play/a00l/index.m3u8
 #EXTINF:-1,ESPN +
 http://181.209.194.242:8080/play/a0s4/index.m3u8
 
-
+#EXTINF:-2022, 1338 ESPN 2
+http://190.61.102.67:31589/play/a063/index.m3u8
+#EXTINF:-2022, 1342 ESPN
+http://190.61.102.67:31589/play/a064/index.m3u8
+#EXTINF:-2022, 344 ESPN3
+http://190.61.102.67:31589/play/a03n/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/Fox-Sports.png" group-title="test", fox sports opc 2
