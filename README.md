@@ -474,6 +474,52 @@ http://181.224.201.160:5577/play/a00s/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://181.224.201.160:5577/play/a00k/index.m3u8
 
+
+#EXTINF:-1,Atres Series
+http://181.209.194.242:8080/play/a0rs/index.m3u8
+#EXTINF:-1,Azcorazon
+http://181.209.194.242:8080/play/a0s0/index.m3u8
+#EXTINF:-1,Azteca 7 HD
+http://181.209.194.242:8080/play/a0pt/index.m3u8
+#EXTINF:-1,CNN Internacional
+http://181.209.194.242:8080/play/a0rt/index.m3u8
+#EXTINF:-1,CNNE
+http://181.209.194.242:8080/play/a0s2/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://181.209.194.242:8080/play/a0ru/index.m3u8
+#EXTINF:-1,Discovery Science
+http://181.209.194.242:8080/play/a0rr/index.m3u8
+#EXTINF:-1,Disney JR
+http://181.209.194.242:8080/play/a0ry/index.m3u8
+#EXTINF:-1,ESPN +
+http://181.209.194.242:8080/play/a0s4/index.m3u8
+#EXTINF:-1,EURONEWS SPANISH HD
+http://181.209.194.242:8080/play/a0s8/index.m3u8
+#EXTINF:-1,Eurochannel
+http://181.209.194.242:8080/play/a0s9/index.m3u8
+#EXTINF:-1,Golden Premiere 2 HD
+http://181.209.194.242:8080/play/a0rw/index.m3u8
+#EXTINF:-1,Golden Premiere HD
+http://181.209.194.242:8080/play/a0rv/index.m3u8
+#EXTINF:-1,History HD
+http://181.209.194.242:8080/play/a0s3/index.m3u8
+#EXTINF:-1,LIFE TIME
+http://181.209.194.242:8080/play/a0s1/index.m3u8
+#EXTINF:-1,Mas Chic
+http://181.209.194.242:8080/play/a0rq/index.m3u8
+#EXTINF:-1,Nick Jr
+http://181.209.194.242:8080/play/a0rx/index.m3u8
+#EXTINF:-1,SEMILLITAS
+http://181.209.194.242:8080/play/a0rz/index.m3u8
+#EXTINF:-1,TRACE SPORT STARS HD
+http://181.209.194.242:8080/play/a0sa/index.m3u8
+#EXTINF:-1,Zoomoo HD LATAM
+http://181.209.194.242:8080/play/a0s7/index.m3u8
+#EXTINF:-1,canal 5 Hd
+http://181.209.194.242:8080/play/a0sz/index.m3u8
+#EXTINF:-1,canal de las estrellas hd
+http://181.209.194.242:8080/play/a0t0/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmQ6-YvuV-7dRR2YELSg6tvwwTKKHae8423ge5FH8piZPLc8G9l1lSz00IH0wOJWp-M&usqp=CAU" group-title="(TURF)" , EEUU 1 
 https://5.trstream01.xyz/canal6/stream.m3u8
 
