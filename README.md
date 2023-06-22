@@ -84,6 +84,147 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://181.224.161.138:1010/play/a07r/index.m3u8
 
 
+#EXTINF:-1,RCN Novelas
+http://177.52.221.178:7979/play/a08d/index.m3u8
+#EXTINF:-1,2-Tele Antillas - RD
+http://177.52.221.178:7979/play/2/index.m3u8
+#EXTINF:-1,5-TeleMicro - RD
+http://177.52.221.178:7979/play/5/index.m3u8
+#EXTINF:-1,7-Antena 7- RD
+http://177.52.221.178:7979/play/7/index.m3u8
+#EXTINF:-1,9-Color Vision 9 - RD
+http://177.52.221.178:7979/play/9/index.m3u8
+#EXTINF:-1,11-Telesistema RD
+http://177.52.221.178:7979/play/11/index.m3u8
+#EXTINF:-1,15-Digital 15 - RD
+http://177.52.221.178:7979/play/15/index.m3u8
+#EXTINF:-1,ESPN
+http://177.52.221.178:7979/play/a08s/index.m3u8
+#EXTINF:-1,ESPN 2
+http://177.52.221.178:7979/play/a08t/index.m3u8
+#EXTINF:-1,ESPN 3
+http://177.52.221.178:7979/play/a08e/index.m3u8
+#EXTINF:-1,ESPN 4
+http://177.52.221.178:7979/play/a0a1/index.m3u8
+#EXTINF:-1,37-CDN37 - RD
+http://177.52.221.178:7979/play/37/index.m3u8
+#EXTINF:-1,Nick Jr
+http://177.52.221.178:7979/play/a07i/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://177.52.221.178:7979/play/a08o/index.m3u8
+#EXTINF:-1,1-La voz de Maria
+http://177.52.221.178:7979/play/1/index.m3u8
+#EXTINF:-1,10-SyFy
+http://177.52.221.178:7979/play/10/index.m3u8
+#EXTINF:-1,12-Warner
+http://177.52.221.178:7979/play/12/index.m3u8
+#EXTINF:-1,13-Telecentro - RD
+http://177.52.221.178:7979/play/13/index.m3u8
+#EXTINF:-1,14-TCM
+http://177.52.221.178:7979/play/14/index.m3u8
+#EXTINF:-1,16-Teleunion - RD
+http://177.52.221.178:7979/play/16/index.m3u8
+#EXTINF:-1,17-Latin America Sport
+http://177.52.221.178:7979/play/17/index.m3u8
+#EXTINF:-1,3-France24
+http://177.52.221.178:7979/play/3/index.m3u8
+#EXTINF:-1,4-Tru TV
+http://177.52.221.178:7979/play/4/index.m3u8
+#EXTINF:-1,6-Telemundo
+http://177.52.221.178:7979/play/6/index.m3u8
+#EXTINF:-1,8-ID
+http://177.52.221.178:7979/play/8/index.m3u8
+#EXTINF:-1,A&E
+http://177.52.221.178:7979/play/a08n/index.m3u8
+#EXTINF:-1,AMC
+http://177.52.221.178:7979/play/a07y/index.m3u8
+#EXTINF:-1,Azcorazon
+http://177.52.221.178:7979/play/a091/index.m3u8
+#EXTINF:-1,Azmundo
+http://177.52.221.178:7979/play/a09h/index.m3u8
+#EXTINF:-1,Baby First
+http://177.52.221.178:7979/play/a096/index.m3u8
+#EXTINF:-1,CDN2- RD
+http://177.52.221.178:7979/play/a088/index.m3u8
+#EXTINF:-1,CERTV
+http://177.52.221.178:7979/play/a09q/index.m3u8
+#EXTINF:-1,CNNE
+http://177.52.221.178:7979/play/a07z/index.m3u8
+#EXTINF:-1,Cartoonito
+http://177.52.221.178:7979/play/a07j/index.m3u8
+#EXTINF:-1,Cine Latino
+http://177.52.221.178:7979/play/a0a7/index.m3u8
+#EXTINF:-1,CineCanal
+http://177.52.221.178:7979/play/a0aa/index.m3u8
+#EXTINF:-1,CineMax
+http://177.52.221.178:7979/play/a0a8/index.m3u8
+#EXTINF:-1,Concert Channel
+http://177.52.221.178:7979/play/a0a3/index.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://177.52.221.178:7979/play/a09x/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://177.52.221.178:7979/play/a09s/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://177.52.221.178:7979/play/a09w/index.m3u8
+#EXTINF:-1,Disney
+http://177.52.221.178:7979/play/a09u/index.m3u8
+#EXTINF:-1,Disney JR
+http://177.52.221.178:7979/play/a07k/index.m3u8
+#EXTINF:-1,E!
+http://177.52.221.178:7979/play/a09k/index.m3u8
+#EXTINF:-1,EURO Channel
+http://177.52.221.178:7979/play/a098/index.m3u8
+#EXTINF:-1,EWTN
+http://177.52.221.178:7979/play/a082/index.m3u8
+#EXTINF:-1,FX
+http://177.52.221.178:7979/play/a097/index.m3u8
+#EXTINF:-1,Fox Sport 3
+http://177.52.221.178:7979/play/a07v/index.m3u8
+#EXTINF:-1,H2
+http://177.52.221.178:7979/play/a099/index.m3u8
+#EXTINF:-1,History Channel
+http://177.52.221.178:7979/play/a09n/index.m3u8
+#EXTINF:-1,ISAT
+http://177.52.221.178:7979/play/a0a5/index.m3u8
+#EXTINF:-1,LIFE TIME
+http://177.52.221.178:7979/play/a07u/index.m3u8
+#EXTINF:-1,Las Estrellas
+http://177.52.221.178:7979/play/a0b2/index.m3u8
+#EXTINF:-1,MTV
+http://177.52.221.178:7979/play/a0a2/index.m3u8
+#EXTINF:-1,Multipremier
+http://177.52.221.178:7979/play/a0a6/index.m3u8
+#EXTINF:-1,National Geographic
+http://177.52.221.178:7979/play/a092/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://177.52.221.178:7979/play/a09t/index.m3u8
+#EXTINF:-1,SEMILLITAS
+http://177.52.221.178:7979/play/a07m/index.m3u8
+#EXTINF:-1,SONY
+http://177.52.221.178:7979/play/a08k/index.m3u8
+#EXTINF:-1,SPACE
+http://177.52.221.178:7979/play/a07q/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://177.52.221.178:7979/play/a09v/index.m3u8
+#EXTINF:-1,Sembrador
+http://177.52.221.178:7979/play/a09f/index.m3u8
+#EXTINF:-1,Studio Universal
+http://177.52.221.178:7979/play/a0a9/index.m3u8
+#EXTINF:-1,TBN Enlace
+http://177.52.221.178:7979/play/a08w/index.m3u8
+#EXTINF:-1,TBS
+http://177.52.221.178:7979/play/a07s/index.m3u8
+#EXTINF:-1,TLC
+http://177.52.221.178:7979/play/a09o/index.m3u8
+#EXTINF:-1,TNT
+http://177.52.221.178:7979/play/a07x/index.m3u8
+#EXTINF:-1,Telenovela
+http://177.52.221.178:7979/play/a0b7/index.m3u8
+#EXTINF:-1,Teleuniverso - RD
+http://177.52.221.178:7979/play/a089/index.m3u8
+
+
+
 #EXTINF:-1,80s Hits
 http://45.179.140.242:8000/play/a0gb
 #EXTINF:-1,AE Mundo
