@@ -687,7 +687,7 @@ http://181.78.4.186:8000/play/a0en/index.m3u8
 http://181.78.4.186:8000/play/a0eo/index.m3u8
 #EXTINF:-1,Universal Premiere SD
 http://181.78.4.186:8000/play/a0em/index.m3u8
-#EXTINF:-1,Venus
+#EXTINF:-1,Mayores adultos
 http://181.78.4.186:8000/play/a0f2/index.m3u8
 #EXTINF:-1,ViaX
 http://181.78.4.186:8000/play/a0fe/index.m3u8
