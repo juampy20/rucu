@@ -1,7 +1,12 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="-" group-title="argentinos" ,test
+#EXTINF:-1 tvg-logo="-" group-title="argentinos" ,RIVER
+http://45.179.140.242:8000/play/a0j5
+
+#EXTINF:-1 tvg-logo="-" group-title="argentinos" ,FUTBOL
 https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/El_Trece.png" group-title="argentinos" ,EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
