@@ -1,11 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="-" group-title="argentinos" ,RIVER
-http://45.179.140.242:8000/play/a0j5
-
-#EXTINF:-1 tvg-logo="-" group-title="argentinos" ,FUTBOL
-https://linear-439.frequency.stream/dist/vix/439/hls/master/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/wBWK9tV9hBM/mqdefault.jpg" group-title="argentinos" ,12 de cordoba
+https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://canales.online/img/logo_canal/El_Trece.png" group-title="argentinos" ,EL TRECE
