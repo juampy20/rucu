@@ -1,5 +1,7 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="-" group-title="argentinos" ,deporte eventos
+https://qm2.livemodo.click/ZcEwhK9brV7f3oEgiDZN4w/1687846599/34352e372e3230392e313939/ff153/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="-" group-title="argentinos" ,12 de cordoba
 https://ythls.onrender.com/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
